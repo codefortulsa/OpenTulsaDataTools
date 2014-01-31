@@ -1,0 +1,565 @@
+{
+  "OpenData": {
+    "DataSets": {
+      "DataSet": [
+        {
+          "Name": "BRIDGE Directory",
+          "Description": "Building Resources in Developing and Growing Enterprises Directory",
+          "CreateDate": "11/6/2013 3:15:25 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "PDF",
+              "Link": "https://www.cityoftulsa.org/media/344799/october%202013%20directory.pdf",
+              "Frequency": "Current BRIDGE Program Directory",
+              "CreateDate": "11/6/2013 3:16:03 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "Census Tracts",
+          "Description": "City of Tulsa Census Tracts",
+          "CreateDate": "10/31/2013 3:11:34 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "REST",
+              "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Housing_Layers/MapServer/2",
+              "Frequency": "Current Tulsa Census Tracts",
+              "CreateDate": "10/31/2013 3:11:56 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "City of Tulsa Automotive Collisions",
+          "Description": "Dataset of automotive collisions broken into year segments.",
+          "CreateDate": "10/31/2013 2:55:30 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": [
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Collisions/MapServer/3",
+                "Frequency": "2010 Calendar Year",
+                "CreateDate": "10/31/2013 2:59:36 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Collisions/MapServer/2",
+                "Frequency": "2011 Calendar Year",
+                "CreateDate": "10/31/2013 2:59:18 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Collisions/MapServer/1",
+                "Frequency": "2012 Calendar Year",
+                "CreateDate": "10/31/2013 2:58:19 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Collisions/MapServer/0",
+                "Frequency": "2013 Year to Date",
+                "CreateDate": "10/31/2013 2:56:11 PM",
+                "UpdateDate": null
+              }
+            ]
+          }
+        },
+        {
+          "Name": "City of Tulsa Corporate Limits",
+          "Description": "City of Tulsa Corporate Limit Boundaries",
+          "CreateDate": "10/31/2013 3:07:18 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "REST",
+              "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/7",
+              "Frequency": "Current Corporate Limits",
+              "CreateDate": "10/31/2013 3:07:49 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "City of Tulsa Crime Data",
+          "Description": "Dataset of crimes broken into year segments.",
+          "CreateDate": "10/31/2013 3:01:45 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": [
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeMap/MapServer/3",
+                "Frequency": "2011 Calendar Year",
+                "CreateDate": "10/31/2013 3:02:53 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeMap/MapServer/2",
+                "Frequency": "2012 Calendar Year",
+                "CreateDate": "10/31/2013 3:02:31 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeMap/MapServer/1",
+                "Frequency": "2013 Year to Date",
+                "CreateDate": "10/31/2013 3:02:14 PM",
+                "UpdateDate": null
+              }
+            ]
+          }
+        },
+        {
+          "Name": "City of Tulsa Current Openings",
+          "Description": "Live feed of current job openings at the City of Tulsa.",
+          "CreateDate": "10/31/2013 12:41:00 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "RSS",
+              "Link": "https://www.cityoftulsa.org/rss/current-openings.aspx",
+              "Frequency": "Live",
+              "CreateDate": "10/31/2013 12:41:34 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "City of Tulsa Floodplains",
+          "Description": "City of Tulsa Floodplain Boundaries",
+          "CreateDate": "10/31/2013 3:10:45 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "REST",
+              "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/Floodplains/MapServer/0",
+              "Frequency": "Current Floodplain Boundaries",
+              "CreateDate": "10/31/2013 3:11:03 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "City of Tulsa Latest News",
+          "Description": "Live feed of current articles from Cityoftulsa.org",
+          "CreateDate": "10/31/2013 1:14:27 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "RSS",
+              "Link": "https://www.cityoftulsa.org/news/newsrss.aspx",
+              "Frequency": "Live",
+              "CreateDate": "10/31/2013 1:14:43 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "City of Tulsa Meeting Agendas",
+          "Description": "All City of Tulsa Meeting Agendas",
+          "CreateDate": "11/6/2013 3:23:23 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "HTML",
+              "Link": "https://www.cityoftulsa.org/our-city/meeting-agendas/all-agendas.aspx",
+              "Frequency": "All Current City of Tulsa Meeting Agendas - Documents Attached",
+              "CreateDate": "11/6/2013 3:23:51 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "City of Tulsa Open Datasets",
+          "Description": "Live feed of currently available Open Datasets.  This is the feed behind this page.",
+          "CreateDate": "10/31/2013 1:27:30 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": [
+              {
+                "Type": "JSON",
+                "Link": "https://www.cityoftulsa.org/cot/opendata/opendatasets.jsn",
+                "Frequency": "Updated Each Minute",
+                "CreateDate": "10/31/2013 1:28:05 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "XML",
+                "Link": "https://www.cityoftulsa.org/cot/opendata/opendatasets.xml",
+                "Frequency": "Updated Each Minute",
+                "CreateDate": "10/31/2013 1:28:28 PM",
+                "UpdateDate": null
+              }
+            ]
+          }
+        },
+        {
+          "Name": "City of Tulsa Ordinances",
+          "Description": "City of Tulsa Ordinances - Municode",
+          "CreateDate": "11/6/2013 3:17:36 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "HTML",
+              "Link": "http://library.municode.com/index.aspx?clientID=14783&stateID=36&statename=Oklahoma",
+              "Frequency": "City of Tulsa Ordinances as Mainted by Municode",
+              "CreateDate": "11/6/2013 3:18:04 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "City of Tulsa Parks",
+          "Description": "City of Tulsa Park Boundaries Layer",
+          "CreateDate": "10/31/2013 3:54:01 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": [
+              {
+                "Type": "KML",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/services/Parks/TulsaParks/MapServer/KmlServer",
+                "Frequency": "Current Tulsa Parks Boundaries",
+                "CreateDate": "10/31/2013 3:54:40 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Parks/TulsaParks/MapServer/0",
+                "Frequency": "Current Tulsa Parks Boundaries",
+                "CreateDate": "10/31/2013 3:54:24 PM",
+                "UpdateDate": null
+              }
+            ]
+          }
+        },
+        {
+          "Name": "City of Tulsa Permit Information",
+          "Description": "Information about permits for the City of Tulsa broken into segments by permit type.",
+          "CreateDate": "10/31/2013 3:08:30 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": [
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/5",
+                "Frequency": "Other Permits",
+                "CreateDate": "10/31/2013 3:10:23 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/4",
+                "Frequency": "Current Sign Permits",
+                "CreateDate": "10/31/2013 3:10:08 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/3",
+                "Frequency": "Current Plumbing Permits",
+                "CreateDate": "10/31/2013 3:09:53 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/2",
+                "Frequency": "Current Mechanical Permits",
+                "CreateDate": "10/31/2013 3:09:34 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/1",
+                "Frequency": "Current Electrical Permits",
+                "CreateDate": "10/31/2013 3:09:19 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/0",
+                "Frequency": "Current Building Permits",
+                "CreateDate": "10/31/2013 3:08:55 PM",
+                "UpdateDate": null
+              }
+            ]
+          }
+        },
+        {
+          "Name": "City of Tulsa Snow Routes",
+          "Description": "All City of Tulsa Snow Routes with individual Route Breakouts",
+          "CreateDate": "11/6/2013 3:26:58 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "PDF",
+              "Link": "https://www.cityoftulsa.org/COTLegacy/SnowRoutes/COTSnowRoutes_FINAL_withRouteMapLinks.pdf",
+              "Frequency": "All Current City of Tulsa SnowRoutes",
+              "CreateDate": "11/6/2013 3:27:24 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "City of Tulsa Tow List",
+          "Description": "List of All Vehicles Subject to being Towed or Booted",
+          "CreateDate": "1/30/2014 12:00:00 AM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": [
+              {
+                "Type": "JSON",
+                "Link": "https://www.cityoftulsa.org/cot/opendata/OpenData_VehicleTowList.jsn",
+                "Frequency": "Current Vehicle Tow List - Updated Mondays 4 am",
+                "CreateDate": "1/30/2014 12:00:00 AM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "XML",
+                "Link": "https://www.cityoftulsa.org/cot/opendata/OpenData_VehicleTowList.xml",
+                "Frequency": "Current Vehicle Tow List - Updated Mondays 4 am",
+                "CreateDate": "1/30/2014 12:11:32 PM",
+                "UpdateDate": null
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Current Bid Opportunities",
+          "Description": "City of Tulsa Current Bid Opportunities",
+          "CreateDate": "11/6/2013 3:21:04 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "HTML",
+              "Link": "https://www.cityoftulsa.org/our-city/doing-business-with-the-city/selling-to-the-city/current-bid-opportunities.aspx",
+              "Frequency": "Current City of Tulsa Bid Opportunities",
+              "CreateDate": "11/6/2013 3:21:21 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "Current Sex Offenders",
+          "Description": "Listing of Current Sex Offenders within the City of Tulsa.",
+          "CreateDate": "10/31/2013 3:03:34 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": [
+              {
+                "Type": "HTML",
+                "Link": "https://www.tulsapolice.org/offenders/sex-offenders-search.aspx",
+                "Frequency": "Sex Offender Search",
+                "CreateDate": "11/6/2013 3:29:37 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "KML",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/services/Crimemaps/SexOffenders/MapServer/KmlServer",
+                "Frequency": "Current Sex Offender Information",
+                "CreateDate": "10/31/2013 3:53:08 PM",
+                "UpdateDate": null
+              },
+              {
+                "Type": "REST",
+                "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/SexOffenders/MapServer/0",
+                "Frequency": "Current Sex Offender Information",
+                "CreateDate": "10/31/2013 3:04:02 PM",
+                "UpdateDate": null
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Engineering and Architecture Bids",
+          "Description": "City of Tulsa Engineering and Architecture Project Bids",
+          "CreateDate": "11/6/2013 3:19:07 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "HTML",
+              "Link": "https://www.cityoftulsa.org/our-city/doing-business-with-the-city/construction-bids.aspx",
+              "Frequency": "Current City of Tulsa Construction Project Bids",
+              "CreateDate": "11/6/2013 3:19:48 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "Meth Lab Data",
+          "Description": "Listing of Meth Labs in City of Tulsa 2004 to Present.",
+          "CreateDate": "10/31/2013 3:04:39 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "REST",
+              "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Meth_Labs/MapServer/0",
+              "Frequency": "2004 To Present",
+              "CreateDate": "10/31/2013 3:05:04 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "Neighborhood Reinvestment Areas",
+          "Description": "City of Tulsa Neighborhood Reinvestment Areas",
+          "CreateDate": "10/31/2013 3:12:15 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "REST",
+              "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Housing_Layers/MapServer/3",
+              "Frequency": "Current Tulsa Neighborhood Reinvestment Areas",
+              "CreateDate": "10/31/2013 3:12:36 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "Tulsa Fire Dispatch",
+          "Description": "Live feed of the Tulsa Fire Dispatch Data.",
+          "CreateDate": "10/30/2013 10:57:05 AM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": [
+              {
+                "Type": "JSON",
+                "Link": "https://www.cityoftulsa.org/cot/opendata/tfd_dispatch.jsn",
+                "Frequency": "Updated Each Minute",
+                "CreateDate": "10/30/2013 11:10:08 AM",
+                "UpdateDate": "10/30/2013 11:10:08 AM"
+              },
+              {
+                "Type": "XML",
+                "Link": "https://www.cityoftulsa.org/cot/opendata/tfd_dispatch.xml",
+                "Frequency": "Updated Each Minute",
+                "CreateDate": "10/30/2013 11:10:08 AM",
+                "UpdateDate": null
+              }
+            ]
+          }
+        },
+        {
+          "Name": "Tulsa Police Beats",
+          "Description": "Listing of all Tulsa Police Beats",
+          "CreateDate": "10/31/2013 3:05:40 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "REST",
+              "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeBaseMap/MapServer/5",
+              "Frequency": "Current Beats",
+              "CreateDate": "10/31/2013 3:06:34 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "Tulsa Police Divisions",
+          "Description": "Listing of all Tulsa Police Divisions",
+          "CreateDate": "10/31/2013 3:05:51 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "REST",
+              "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeBaseMap/MapServer/6",
+              "Frequency": "Current Divisions",
+              "CreateDate": "10/31/2013 3:06:46 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "Tulsa Police Squads",
+          "Description": "Listing of all Tulsa Police Squads",
+          "CreateDate": "10/31/2013 3:05:27 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "REST",
+              "Link": "http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeBaseMap/MapServer/4",
+              "Frequency": "Current Squads",
+              "CreateDate": "10/31/2013 3:06:19 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "Tulsa Police Wanted",
+          "Description": "Weekly Tulsa Police Wanted List",
+          "CreateDate": "11/6/2013 3:32:10 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "HTML",
+              "Link": "https://www.tulsapolice.org/content/warrants.aspx",
+              "Frequency": "Weekly Tulsa Police Wanted Suspect List",
+              "CreateDate": "11/6/2013 3:32:33 PM",
+              "UpdateDate": null
+            }
+          }
+        },
+        {
+          "Name": "Tulsa Police Warrants",
+          "Description": "Tulsa Police Open Warrants",
+          "CreateDate": "11/6/2013 3:31:16 PM",
+          "UpdateDate": null,
+          "Instances": {
+            "Instance": {
+              "Type": "HTML",
+              "Link": "https://www.tulsapolice.org/content/warrants.aspx",
+              "Frequency": "Current Tulsa Police Open Warrants",
+              "CreateDate": "11/6/2013 3:31:36 PM",
+              "UpdateDate": null
+            }
+          }
+        }
+      ]
+    },
+    "DataTypes": {
+      "DataType": [
+        {
+          "Type": "HTML",
+          "Description": "HyperText Markup Language (HTML) is the main markup language for creating web pages and other information that can be displayed in a web browser.",
+          "Icon": null
+        },
+        {
+          "Type": "JSON",
+          "Description": "JavaScript Object Notation. A text-based open standard designed for human-readable data interchange.",
+          "Icon": null
+        },
+        {
+          "Type": "KML",
+          "Description": "Keyhole Markup Language (KML) is an XML notation for expressing geographic annotation and visualization within Internet-based, two-dimensional maps and three-dimensional Earth browsers.",
+          "Icon": null
+        },
+        {
+          "Type": "PDF",
+          "Description": "Portable Document Format (PDF) is a file format used to represent documents in a manner independent of application software, hardware, and operating system.",
+          "Icon": null
+        },
+        {
+          "Type": "REST",
+          "Description": "Representational State Transfer (REST) is an architectural style that abstracts the architectural elements within a distributed hypermedia system.",
+          "Icon": null
+        },
+        {
+          "Type": "RSS",
+          "Description": "RSS (Rich Site Summary); originally RDF Site Summary; often dubbed Really Simple Syndication, uses a family of standard web feed formats to publish frequently updated information: blog entries, news headlines, audio, video. An RSS document (called feed, web feed, or channel) includes full or summarized text, and metadata, like publishing date and authors name.",
+          "Icon": null
+        },
+        {
+          "Type": "XML",
+          "Description": "Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.",
+          "Icon": null
+        }
+      ]
+    }
+  }
+}

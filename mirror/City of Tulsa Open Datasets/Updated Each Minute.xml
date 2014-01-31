@@ -1,0 +1,617 @@
+<OpenData>
+  <DataSets>
+    <DataSet>
+      <Name>BRIDGE Directory</Name>
+      <Description>Building Resources in Developing and Growing Enterprises Directory</Description>
+      <CreateDate>11/6/2013 3:15:25 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>PDF</Type>
+          <Link>https://www.cityoftulsa.org/media/344799/october%202013%20directory.pdf</Link>
+          <Frequency>Current BRIDGE Program Directory</Frequency>
+          <CreateDate>11/6/2013 3:16:03 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Census Tracts</Name>
+      <Description>City of Tulsa Census Tracts</Description>
+      <CreateDate>10/31/2013 3:11:34 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Housing_Layers/MapServer/2</Link>
+          <Frequency>Current Tulsa Census Tracts</Frequency>
+          <CreateDate>10/31/2013 3:11:56 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Automotive Collisions</Name>
+      <Description>Dataset of automotive collisions broken into year segments.</Description>
+      <CreateDate>10/31/2013 2:55:30 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Collisions/MapServer/3</Link>
+          <Frequency>2010 Calendar Year</Frequency>
+          <CreateDate>10/31/2013 2:59:36 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Collisions/MapServer/2</Link>
+          <Frequency>2011 Calendar Year</Frequency>
+          <CreateDate>10/31/2013 2:59:18 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Collisions/MapServer/1</Link>
+          <Frequency>2012 Calendar Year</Frequency>
+          <CreateDate>10/31/2013 2:58:19 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Collisions/MapServer/0</Link>
+          <Frequency>2013 Year to Date</Frequency>
+          <CreateDate>10/31/2013 2:56:11 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Corporate Limits</Name>
+      <Description>City of Tulsa Corporate Limit Boundaries</Description>
+      <CreateDate>10/31/2013 3:07:18 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/7</Link>
+          <Frequency>Current Corporate Limits</Frequency>
+          <CreateDate>10/31/2013 3:07:49 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Crime Data</Name>
+      <Description>Dataset of crimes broken into year segments.</Description>
+      <CreateDate>10/31/2013 3:01:45 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeMap/MapServer/3</Link>
+          <Frequency>2011 Calendar Year</Frequency>
+          <CreateDate>10/31/2013 3:02:53 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeMap/MapServer/2</Link>
+          <Frequency>2012 Calendar Year</Frequency>
+          <CreateDate>10/31/2013 3:02:31 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeMap/MapServer/1</Link>
+          <Frequency>2013 Year to Date</Frequency>
+          <CreateDate>10/31/2013 3:02:14 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Current Openings</Name>
+      <Description>Live feed of current job openings at the City of Tulsa.</Description>
+      <CreateDate>10/31/2013 12:41:00 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>RSS</Type>
+          <Link>https://www.cityoftulsa.org/rss/current-openings.aspx</Link>
+          <Frequency>Live</Frequency>
+          <CreateDate>10/31/2013 12:41:34 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Floodplains</Name>
+      <Description>City of Tulsa Floodplain Boundaries</Description>
+      <CreateDate>10/31/2013 3:10:45 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/Floodplains/MapServer/0</Link>
+          <Frequency>Current Floodplain Boundaries</Frequency>
+          <CreateDate>10/31/2013 3:11:03 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Latest News</Name>
+      <Description>Live feed of current articles from Cityoftulsa.org</Description>
+      <CreateDate>10/31/2013 1:14:27 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>RSS</Type>
+          <Link>https://www.cityoftulsa.org/news/newsrss.aspx</Link>
+          <Frequency>Live</Frequency>
+          <CreateDate>10/31/2013 1:14:43 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Meeting Agendas</Name>
+      <Description>All City of Tulsa Meeting Agendas</Description>
+      <CreateDate>11/6/2013 3:23:23 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>HTML</Type>
+          <Link>https://www.cityoftulsa.org/our-city/meeting-agendas/all-agendas.aspx</Link>
+          <Frequency>All Current City of Tulsa Meeting Agendas - Documents Attached</Frequency>
+          <CreateDate>11/6/2013 3:23:51 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Open Datasets</Name>
+      <Description>Live feed of currently available Open Datasets.  This is the feed behind this page.</Description>
+      <CreateDate>10/31/2013 1:27:30 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>JSON</Type>
+          <Link>https://www.cityoftulsa.org/cot/opendata/opendatasets.jsn</Link>
+          <Frequency>Updated Each Minute</Frequency>
+          <CreateDate>10/31/2013 1:28:05 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>XML</Type>
+          <Link>https://www.cityoftulsa.org/cot/opendata/opendatasets.xml</Link>
+          <Frequency>Updated Each Minute</Frequency>
+          <CreateDate>10/31/2013 1:28:28 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Ordinances</Name>
+      <Description>City of Tulsa Ordinances - Municode</Description>
+      <CreateDate>11/6/2013 3:17:36 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>HTML</Type>
+          <Link>http://library.municode.com/index.aspx?clientID=14783&amp;stateID=36&amp;statename=Oklahoma</Link>
+          <Frequency>City of Tulsa Ordinances as Mainted by Municode</Frequency>
+          <CreateDate>11/6/2013 3:18:04 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Parks</Name>
+      <Description>City of Tulsa Park Boundaries Layer</Description>
+      <CreateDate>10/31/2013 3:54:01 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>KML</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/services/Parks/TulsaParks/MapServer/KmlServer</Link>
+          <Frequency>Current Tulsa Parks Boundaries</Frequency>
+          <CreateDate>10/31/2013 3:54:40 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Parks/TulsaParks/MapServer/0</Link>
+          <Frequency>Current Tulsa Parks Boundaries</Frequency>
+          <CreateDate>10/31/2013 3:54:24 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Permit Information</Name>
+      <Description>Information about permits for the City of Tulsa broken into segments by permit type.</Description>
+      <CreateDate>10/31/2013 3:08:30 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/5</Link>
+          <Frequency>Other Permits</Frequency>
+          <CreateDate>10/31/2013 3:10:23 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/4</Link>
+          <Frequency>Current Sign Permits</Frequency>
+          <CreateDate>10/31/2013 3:10:08 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/3</Link>
+          <Frequency>Current Plumbing Permits</Frequency>
+          <CreateDate>10/31/2013 3:09:53 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/2</Link>
+          <Frequency>Current Mechanical Permits</Frequency>
+          <CreateDate>10/31/2013 3:09:34 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/1</Link>
+          <Frequency>Current Electrical Permits</Frequency>
+          <CreateDate>10/31/2013 3:09:19 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Permits/PermitInspection/MapServer/0</Link>
+          <Frequency>Current Building Permits</Frequency>
+          <CreateDate>10/31/2013 3:08:55 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Snow Routes</Name>
+      <Description>All City of Tulsa Snow Routes with individual Route Breakouts</Description>
+      <CreateDate>11/6/2013 3:26:58 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>PDF</Type>
+          <Link>https://www.cityoftulsa.org/COTLegacy/SnowRoutes/COTSnowRoutes_FINAL_withRouteMapLinks.pdf</Link>
+          <Frequency>All Current City of Tulsa SnowRoutes</Frequency>
+          <CreateDate>11/6/2013 3:27:24 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>City of Tulsa Tow List</Name>
+      <Description>List of All Vehicles Subject to being Towed or Booted</Description>
+      <CreateDate>1/30/2014 12:00:00 AM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>JSON</Type>
+          <Link>https://www.cityoftulsa.org/cot/opendata/OpenData_VehicleTowList.jsn</Link>
+          <Frequency>Current Vehicle Tow List - Updated Mondays 4 am</Frequency>
+          <CreateDate>1/30/2014 12:00:00 AM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>XML</Type>
+          <Link>https://www.cityoftulsa.org/cot/opendata/OpenData_VehicleTowList.xml</Link>
+          <Frequency>Current Vehicle Tow List - Updated Mondays 4 am</Frequency>
+          <CreateDate>1/30/2014 12:11:32 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Current Bid Opportunities</Name>
+      <Description>City of Tulsa Current Bid Opportunities</Description>
+      <CreateDate>11/6/2013 3:21:04 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>HTML</Type>
+          <Link>https://www.cityoftulsa.org/our-city/doing-business-with-the-city/selling-to-the-city/current-bid-opportunities.aspx</Link>
+          <Frequency>Current City of Tulsa Bid Opportunities</Frequency>
+          <CreateDate>11/6/2013 3:21:21 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Current Sex Offenders</Name>
+      <Description>Listing of Current Sex Offenders within the City of Tulsa.</Description>
+      <CreateDate>10/31/2013 3:03:34 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>HTML</Type>
+          <Link>https://www.tulsapolice.org/offenders/sex-offenders-search.aspx</Link>
+          <Frequency>Sex Offender Search</Frequency>
+          <CreateDate>11/6/2013 3:29:37 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>KML</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/services/Crimemaps/SexOffenders/MapServer/KmlServer</Link>
+          <Frequency>Current Sex Offender Information</Frequency>
+          <CreateDate>10/31/2013 3:53:08 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/SexOffenders/MapServer/0</Link>
+          <Frequency>Current Sex Offender Information</Frequency>
+          <CreateDate>10/31/2013 3:04:02 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Engineering and Architecture Bids</Name>
+      <Description>City of Tulsa Engineering and Architecture Project Bids</Description>
+      <CreateDate>11/6/2013 3:19:07 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>HTML</Type>
+          <Link>https://www.cityoftulsa.org/our-city/doing-business-with-the-city/construction-bids.aspx</Link>
+          <Frequency>Current City of Tulsa Construction Project Bids</Frequency>
+          <CreateDate>11/6/2013 3:19:48 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Meth Lab Data</Name>
+      <Description>Listing of Meth Labs in City of Tulsa 2004 to Present.</Description>
+      <CreateDate>10/31/2013 3:04:39 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/Meth_Labs/MapServer/0</Link>
+          <Frequency>2004 To Present</Frequency>
+          <CreateDate>10/31/2013 3:05:04 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Neighborhood Reinvestment Areas</Name>
+      <Description>City of Tulsa Neighborhood Reinvestment Areas</Description>
+      <CreateDate>10/31/2013 3:12:15 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Housing_Layers/MapServer/3</Link>
+          <Frequency>Current Tulsa Neighborhood Reinvestment Areas</Frequency>
+          <CreateDate>10/31/2013 3:12:36 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Tulsa Fire Dispatch</Name>
+      <Description>Live feed of the Tulsa Fire Dispatch Data.</Description>
+      <CreateDate>10/30/2013 10:57:05 AM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>JSON</Type>
+          <Link>https://www.cityoftulsa.org/cot/opendata/tfd_dispatch.jsn</Link>
+          <Frequency>Updated Each Minute</Frequency>
+          <CreateDate>10/30/2013 11:10:08 AM</CreateDate>
+          <UpdateDate>10/30/2013 11:10:08 AM</UpdateDate>
+        </Instance>
+        <Instance>
+          <Type>XML</Type>
+          <Link>https://www.cityoftulsa.org/cot/opendata/tfd_dispatch.xml</Link>
+          <Frequency>Updated Each Minute</Frequency>
+          <CreateDate>10/30/2013 11:10:08 AM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Tulsa Police Beats</Name>
+      <Description>Listing of all Tulsa Police Beats</Description>
+      <CreateDate>10/31/2013 3:05:40 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeBaseMap/MapServer/5</Link>
+          <Frequency>Current Beats</Frequency>
+          <CreateDate>10/31/2013 3:06:34 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Tulsa Police Divisions</Name>
+      <Description>Listing of all Tulsa Police Divisions</Description>
+      <CreateDate>10/31/2013 3:05:51 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeBaseMap/MapServer/6</Link>
+          <Frequency>Current Divisions</Frequency>
+          <CreateDate>10/31/2013 3:06:46 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Tulsa Police Squads</Name>
+      <Description>Listing of all Tulsa Police Squads</Description>
+      <CreateDate>10/31/2013 3:05:27 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>REST</Type>
+          <Link>http://maps.cityoftulsa.org/ArcGIS/rest/services/Crimemaps/CrimeBaseMap/MapServer/4</Link>
+          <Frequency>Current Squads</Frequency>
+          <CreateDate>10/31/2013 3:06:19 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Tulsa Police Wanted</Name>
+      <Description>Weekly Tulsa Police Wanted List</Description>
+      <CreateDate>11/6/2013 3:32:10 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>HTML</Type>
+          <Link>https://www.tulsapolice.org/content/warrants.aspx</Link>
+          <Frequency>Weekly Tulsa Police Wanted Suspect List</Frequency>
+          <CreateDate>11/6/2013 3:32:33 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+    <DataSet>
+      <Name>Tulsa Police Warrants</Name>
+      <Description>Tulsa Police Open Warrants</Description>
+      <CreateDate>11/6/2013 3:31:16 PM</CreateDate>
+      <UpdateDate>
+      </UpdateDate>
+      <Instances>
+        <Instance>
+          <Type>HTML</Type>
+          <Link>https://www.tulsapolice.org/content/warrants.aspx</Link>
+          <Frequency>Current Tulsa Police Open Warrants</Frequency>
+          <CreateDate>11/6/2013 3:31:36 PM</CreateDate>
+          <UpdateDate>
+          </UpdateDate>
+        </Instance>
+      </Instances>
+    </DataSet>
+  </DataSets>
+  <DataTypes>
+    <DataType>
+      <Type>HTML</Type>
+      <Description>HyperText Markup Language (HTML) is the main markup language for creating web pages and other information that can be displayed in a web browser.</Description>
+      <Icon>
+      </Icon>
+    </DataType>
+    <DataType>
+      <Type>JSON</Type>
+      <Description>JavaScript Object Notation. A text-based open standard designed for human-readable data interchange.</Description>
+      <Icon>
+      </Icon>
+    </DataType>
+    <DataType>
+      <Type>KML</Type>
+      <Description>Keyhole Markup Language (KML) is an XML notation for expressing geographic annotation and visualization within Internet-based, two-dimensional maps and three-dimensional Earth browsers.</Description>
+      <Icon>
+      </Icon>
+    </DataType>
+    <DataType>
+      <Type>PDF</Type>
+      <Description>Portable Document Format (PDF) is a file format used to represent documents in a manner independent of application software, hardware, and operating system.</Description>
+      <Icon>
+      </Icon>
+    </DataType>
+    <DataType>
+      <Type>REST</Type>
+      <Description>Representational State Transfer (REST) is an architectural style that abstracts the architectural elements within a distributed hypermedia system.</Description>
+      <Icon>
+      </Icon>
+    </DataType>
+    <DataType>
+      <Type>RSS</Type>
+      <Description>RSS (Rich Site Summary); originally RDF Site Summary; often dubbed Really Simple Syndication, uses a family of standard web feed formats to publish frequently updated information: blog entries, news headlines, audio, video. An RSS document (called feed, web feed, or channel) includes full or summarized text, and metadata, like publishing date and authors name.</Description>
+      <Icon>
+      </Icon>
+    </DataType>
+    <DataType>
+      <Type>XML</Type>
+      <Description>Extensible Markup Language (XML) is a markup language that defines a set of rules for encoding documents in a format that is both human-readable and machine-readable.</Description>
+      <Icon>
+      </Icon>
+    </DataType>
+  </DataTypes>
+</OpenData>

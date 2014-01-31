@@ -1,0 +1,11 @@
+
+{
+  "error" : 
+  {
+    "code" : 400, 
+    "message" : "", 
+    "details" : [
+      "Service 'Permits/Floodplains' of type 'MapServer' does not exist or is inaccessible."
+    ]
+  }
+}

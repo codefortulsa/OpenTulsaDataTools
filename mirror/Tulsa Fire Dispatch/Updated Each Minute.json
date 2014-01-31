@@ -1,0 +1,1499 @@
+{
+  "Incidents": {
+    "Incident": [
+      {
+        "IncidentNumber": "TFD2014000005962",
+        "Problem": "Apartment Fire",
+        "Address": "1300 E 64th St S",
+        "ResponseDate": "1/31/2014 7:28:30 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 3",
+              "Station": "Station 18",
+              "VehicleID": "C643"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 18",
+              "VehicleID": "ENG14"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 18",
+              "VehicleID": "ENG29"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 18",
+              "VehicleID": "ENG6"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 18",
+              "VehicleID": "L23"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 18",
+              "VehicleID": "L26"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 18",
+              "VehicleID": "L29"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 18",
+              "VehicleID": "SQ23"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005961",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "6700 S SHERIDAN RD",
+        "ResponseDate": "1/31/2014 7:03:14 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 28",
+            "VehicleID": "ENG28"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005960",
+        "Problem": "Fluid Spill",
+        "Address": "5100 Nb S Hwy 169 Expy",
+        "ResponseDate": "1/31/2014 6:56:22 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 5",
+              "Station": "Station 20",
+              "VehicleID": "ENG27"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 20",
+              "VehicleID": "L20"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005958",
+        "Problem": "Assist Other Agencies",
+        "Address": "2500 E 21ST ST S",
+        "ResponseDate": "1/31/2014 6:48:06 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 7",
+            "VehicleID": "ENG7"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005949",
+        "Problem": "Business Alarm",
+        "Address": "800 S Detroit Ave",
+        "ResponseDate": "1/31/2014 4:42:30 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 4",
+            "VehicleID": "ENG4"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005946",
+        "Problem": "Inv-Smoke/Detector/Odor/Fire",
+        "Address": "200 E 53rd St N",
+        "ResponseDate": "1/31/2014 4:25:33 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 19",
+            "VehicleID": "ENG19"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005944",
+        "Problem": "Traumatic Injury",
+        "Address": "4700 S DARLINGTON AVE",
+        "ResponseDate": "1/31/2014 3:23:57 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 23",
+            "VehicleID": "SQ23"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005937",
+        "Problem": "Residential Alarm",
+        "Address": "700 E 48th St N",
+        "ResponseDate": "1/31/2014 12:30:22 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 19",
+            "VehicleID": "ENG19"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005936",
+        "Problem": "Apartment Fire",
+        "Address": "7600 E 49th St S",
+        "ResponseDate": "1/30/2014 11:40:58 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 5",
+              "Station": "Station 25",
+              "VehicleID": "C645"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 25",
+              "VehicleID": "ENG20"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 25",
+              "VehicleID": "ENG21"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 25",
+              "VehicleID": "ENG25"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 25",
+              "VehicleID": "ENG27"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 25",
+              "VehicleID": "ENG28"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 25",
+              "VehicleID": "L20"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 25",
+              "VehicleID": "L23"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 25",
+              "VehicleID": "SQ23"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005932",
+        "Problem": "Carbon Monoxide - No sympt",
+        "Address": "7300 E Marshall Pl",
+        "ResponseDate": "1/30/2014 11:17:32 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 17",
+            "VehicleID": "ENG17"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005931",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "100 E 1ST ST S",
+        "ResponseDate": "1/30/2014 11:12:25 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 2",
+            "VehicleID": "ENG3"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005929",
+        "Problem": "Apartment Fire",
+        "Address": "11000 E 43rd St S",
+        "ResponseDate": "1/30/2014 10:55:47 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "C645"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "ENG20"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "ENG21"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "ENG25"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "ENG27"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "L20"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "L23"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "L27"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "L30"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "SQ23"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005921",
+        "Problem": "Natural Gas Leak",
+        "Address": "3000 S Mingo Rd",
+        "ResponseDate": "1/30/2014 10:29:24 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 2",
+            "Station": "Station 27",
+            "VehicleID": "L27"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005917",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "1500 N PEORIA AVE",
+        "ResponseDate": "1/30/2014 9:43:45 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 10",
+            "VehicleID": "ENG10"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005914",
+        "Problem": "Assist Other Agencies",
+        "Address": "4200 E 84th Pl S",
+        "ResponseDate": "1/30/2014 9:12:56 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 32",
+            "VehicleID": "L32"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005905",
+        "Problem": "Grass/Brush Fire",
+        "Address": "6100 Nb S Hwy 169 Expy",
+        "ResponseDate": "1/30/2014 8:28:28 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 5",
+              "Station": "Station 20",
+              "VehicleID": "ENG20"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 20",
+              "VehicleID": "ENG27"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 20",
+              "VehicleID": "ENG28"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 20",
+              "VehicleID": "L27"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005904",
+        "Problem": "Assist Other Agencies",
+        "Address": "5100 E 51ST ST S",
+        "ResponseDate": "1/30/2014 8:22:14 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 5",
+              "Station": "Station 23",
+              "VehicleID": "L23"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 23",
+              "VehicleID": "SQ23"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005902",
+        "Problem": "Fluid Spill",
+        "Address": "9700 E 71st St S",
+        "ResponseDate": "1/30/2014 8:08:22 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 20",
+            "VehicleID": "ENG20"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005901",
+        "Problem": "Inv-Smoke/Detector/Odor/Fire",
+        "Address": "1700 E 36th St N",
+        "ResponseDate": "1/30/2014 8:07:00 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 4",
+              "Station": "Station 24",
+              "VehicleID": "ENG24"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 24",
+              "VehicleID": "L24"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005900",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "3000 MOHAWK BLVD",
+        "ResponseDate": "1/30/2014 8:05:04 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 4",
+              "Station": "Station 16",
+              "VehicleID": "ENG10"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 16",
+              "VehicleID": "ENG24"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005898",
+        "Problem": "Fluid Spill",
+        "Address": "3200 E ADMIRAL PL",
+        "ResponseDate": "1/30/2014 7:53:26 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 4",
+              "Station": "Station 15",
+              "VehicleID": "ENG15"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 15",
+              "VehicleID": "HM1"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 15",
+              "VehicleID": "HM2"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 15",
+              "VehicleID": "L7"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005897",
+        "Problem": "Assist Other Agencies",
+        "Address": "3000 S Yorktown Ave",
+        "ResponseDate": "1/30/2014 7:50:24 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 14",
+            "VehicleID": "ENG14"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005896",
+        "Problem": "Inv-Smoke/Detector/Odor/Fire",
+        "Address": "4700 E 7th St S",
+        "ResponseDate": "1/30/2014 7:35:33 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 15",
+            "VehicleID": "ENG7"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005895",
+        "Problem": "Inv-Smoke/Detector/Odor/Fire",
+        "Address": "10900 S Erie Ave",
+        "ResponseDate": "1/30/2014 7:17:03 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 9",
+            "VehicleID": "ENG9"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005894",
+        "Problem": "Natural Gas Leak",
+        "Address": "1700 - 1989 N Quincy Ave",
+        "ResponseDate": "1/30/2014 7:14:35 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 10",
+            "VehicleID": null
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005888",
+        "Problem": "MVA- Auto-Ped",
+        "Address": "8100 E ADMIRAL PL",
+        "ResponseDate": "1/30/2014 6:29:18 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "L22"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "SQ22"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005880",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "9100 S YALE AVE",
+        "ResponseDate": "1/30/2014 5:52:28 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 5",
+              "Station": "Station 32",
+              "VehicleID": "L32"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 32",
+              "VehicleID": "SQ32"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005876",
+        "Problem": "Open Burn",
+        "Address": "1300 N 78TH E AVE",
+        "ResponseDate": "1/30/2014 5:32:38 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 17",
+            "VehicleID": "ENG17"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005875",
+        "Problem": "Open Burn",
+        "Address": "1900 E Oklahoma Pl",
+        "ResponseDate": "1/30/2014 5:29:13 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 3",
+            "VehicleID": "ENG10"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005873",
+        "Problem": "Assist Other Agencies",
+        "Address": "2200 E 59th St S",
+        "ResponseDate": "1/30/2014 5:20:15 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 29",
+            "VehicleID": "L29"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005867",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "1100 S BIRMINGHAM AVE",
+        "ResponseDate": "1/30/2014 4:55:15 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 7",
+            "VehicleID": "ENG7"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005864",
+        "Problem": "Residential Alarm",
+        "Address": "4300 E 118th St S",
+        "ResponseDate": "1/30/2014 4:37:14 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 9",
+            "VehicleID": "ENG9"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005863",
+        "Problem": "Traumatic Injury",
+        "Address": "11300 E 23RD ST S",
+        "ResponseDate": "1/30/2014 4:33:24 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "ENG27"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "L27"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005861",
+        "Problem": "Residential Alarm",
+        "Address": "5500 E 103rd St S",
+        "ResponseDate": "1/30/2014 4:20:37 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 9",
+            "VehicleID": "ENG9"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005860",
+        "Problem": "Fluid Spill",
+        "Address": "5100 S Yale Ave",
+        "ResponseDate": "1/30/2014 3:46:38 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 23",
+            "VehicleID": "L23"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005858",
+        "Problem": "Business Alarm - School/THA",
+        "Address": "4200 S 109th E Ave",
+        "ResponseDate": "1/30/2014 3:36:52 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "ENG25"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "ENG27"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 27",
+              "VehicleID": "L27"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005856",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "7100 S CANTON AVE",
+        "ResponseDate": "1/30/2014 3:30:31 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 28",
+            "VehicleID": "ENG29"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005855",
+        "Problem": "Business Alarm",
+        "Address": "9900 E 58th St S",
+        "ResponseDate": "1/30/2014 3:19:59 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 20",
+            "VehicleID": "L20"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005853",
+        "Problem": "Grass/Brush Fire",
+        "Address": "4800 S Elwood Ave",
+        "ResponseDate": "1/30/2014 3:17:03 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 18",
+            "VehicleID": "ENG18"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005852",
+        "Problem": "Grass/Brush Fire",
+        "Address": "3600 E Young St",
+        "ResponseDate": "1/30/2014 3:15:39 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 16",
+            "VehicleID": "ENG17"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005848",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "2000 S 129TH E AVE",
+        "ResponseDate": "1/30/2014 3:00:07 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 2",
+            "Station": "Station 27",
+            "VehicleID": "ENG30"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005843",
+        "Problem": "Grass/Brush Fire",
+        "Address": "5200 N LEWIS AVE",
+        "ResponseDate": "1/30/2014 2:33:42 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 19",
+            "VehicleID": "ENG19"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005844",
+        "Problem": "Grass/Brush Fire",
+        "Address": "5200 N Lewis Ave",
+        "ResponseDate": "1/30/2014 2:33:23 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 19",
+            "VehicleID": null
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005840",
+        "Problem": "Building Fire",
+        "Address": "12100 E 11th St S",
+        "ResponseDate": "1/30/2014 2:19:59 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 2",
+              "Station": "Station 30",
+              "VehicleID": "C642"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 30",
+              "VehicleID": "ENG20"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 30",
+              "VehicleID": "ENG25"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 30",
+              "VehicleID": "ENG27"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 30",
+              "VehicleID": "ENG30"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 30",
+              "VehicleID": "L20"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 30",
+              "VehicleID": "L22"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 30",
+              "VehicleID": "L27"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 30",
+              "VehicleID": "SQ22"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005841",
+        "Problem": "Building Fire",
+        "Address": "12100 E 11th St S",
+        "ResponseDate": "1/30/2014 2:19:15 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 2",
+            "Station": "Station 30",
+            "VehicleID": null
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005839",
+        "Problem": "Assist Other Agencies",
+        "Address": "1500 E 15th St S",
+        "ResponseDate": "1/30/2014 2:14:04 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 1",
+              "Station": "Station 5",
+              "VehicleID": "ENG4"
+            },
+            {
+              "Division": "District 1",
+              "Station": "Station 5",
+              "VehicleID": "ENG5"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005837",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "2600 S HARVARD AVE",
+        "ResponseDate": "1/30/2014 2:07:40 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 21",
+            "VehicleID": "L7"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005835",
+        "Problem": "Business Alarm",
+        "Address": "8100 E 21st St S",
+        "ResponseDate": "1/30/2014 2:01:38 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 2",
+            "Station": "Station 22",
+            "VehicleID": "L22"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005830",
+        "Problem": "Traumatic Injury",
+        "Address": "6100 S SHERIDAN RD",
+        "ResponseDate": "1/30/2014 1:28:16 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 28",
+            "VehicleID": "ENG20"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005826",
+        "Problem": "Business Alarm",
+        "Address": "4600 E Admiral Pl",
+        "ResponseDate": "1/30/2014 1:08:01 PM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 15",
+            "VehicleID": "ENG7"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005819",
+        "Problem": "Fluid Spill",
+        "Address": "400 S HARVARD AVE",
+        "ResponseDate": "1/30/2014 12:27:04 PM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 4",
+              "Station": "Station 15",
+              "VehicleID": "ENG15"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 15",
+              "VehicleID": "HM1"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 15",
+              "VehicleID": "HM2"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 15",
+              "VehicleID": "L7"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005815",
+        "Problem": "Inv-Smoke/Detector/Odor/Fire",
+        "Address": "6700 S Louisville Ave",
+        "ResponseDate": "1/30/2014 11:49:52 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 29",
+            "VehicleID": "ENG29"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005812",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "1500 N NORFOLK AVE",
+        "ResponseDate": "1/30/2014 11:37:07 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 10",
+            "VehicleID": null
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005810",
+        "Problem": "Fluid Spill",
+        "Address": "1500 N Norfolk Ave",
+        "ResponseDate": "1/30/2014 11:33:12 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 4",
+              "Station": "Station 10",
+              "VehicleID": "ENG24"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 10",
+              "VehicleID": "ENG3"
+            },
+            {
+              "Division": "District 4",
+              "Station": "Station 10",
+              "VehicleID": "L24"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005808",
+        "Problem": "Residential Alarm",
+        "Address": "100 E 26th Pl S",
+        "ResponseDate": "1/30/2014 11:12:44 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 5",
+            "VehicleID": "ENG5"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005807",
+        "Problem": "Carbon Monoxide - No sympt",
+        "Address": "3900 E 60th Pl S",
+        "ResponseDate": "1/30/2014 11:07:55 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 23",
+            "VehicleID": "SQ23"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005806",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "8900 S HARVARD AVE",
+        "ResponseDate": "1/30/2014 11:03:12 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 29",
+            "VehicleID": null
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005804",
+        "Problem": "Fluid Spill",
+        "Address": "7000 S Harvard Ave",
+        "ResponseDate": "1/30/2014 10:56:55 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 29",
+            "VehicleID": "L23"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005801",
+        "Problem": "Fluid Spill",
+        "Address": "8900 S Harvard Ave",
+        "ResponseDate": "1/30/2014 10:41:09 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 29",
+            "VehicleID": "ENG29"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005798",
+        "Problem": "Dumpster Fire",
+        "Address": "6100 S 33RD W AVE",
+        "ResponseDate": "1/30/2014 10:33:51 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 6",
+            "VehicleID": "ENG29"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005795",
+        "Problem": "Inv- Electrical",
+        "Address": "1700 S Denver Ave",
+        "ResponseDate": "1/30/2014 10:16:45 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 5",
+            "VehicleID": "ENG5"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005791",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "200 Wb  169 Nb",
+        "ResponseDate": "1/30/2014 9:20:43 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": null,
+            "Station": null,
+            "VehicleID": null
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005789",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "100 NB S HWY 169 EXPY",
+        "ResponseDate": "1/30/2014 9:17:52 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "ENG31"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "SQ22"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005788",
+        "Problem": "Fluid Spill",
+        "Address": "9800 E 61st St S",
+        "ResponseDate": "1/30/2014 9:17:16 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 5",
+            "Station": "Station 20",
+            "VehicleID": "L20"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005787",
+        "Problem": "Business Alarm",
+        "Address": "900 S Elgin Ave",
+        "ResponseDate": "1/30/2014 9:06:11 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 4",
+            "VehicleID": "ENG7"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005785",
+        "Problem": "Business Alarm",
+        "Address": "300 W 4th St S",
+        "ResponseDate": "1/30/2014 9:05:26 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 4",
+            "VehicleID": "ENG2"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005784",
+        "Problem": "Business Alarm - Hosp/NH",
+        "Address": "3300 E 28th St S",
+        "ResponseDate": "1/30/2014 9:05:07 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 5",
+              "Station": "Station 21",
+              "VehicleID": "C642"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 21",
+              "VehicleID": "ENG14"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 21",
+              "VehicleID": "ENG21"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 21",
+              "VehicleID": "ENG4"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 21",
+              "VehicleID": "ENG7"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 21",
+              "VehicleID": "L4"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 21",
+              "VehicleID": "L7"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 21",
+              "VehicleID": "SQ23"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005780",
+        "Problem": "MVA- Multi Veh/Patients",
+        "Address": "5000 EB E I44 EXPY",
+        "ResponseDate": "1/30/2014 8:21:29 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 5",
+              "Station": "Station 23",
+              "VehicleID": "ENG14"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 23",
+              "VehicleID": "SQ23"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005779",
+        "Problem": "Grass/Brush Fire",
+        "Address": "5300 Sb S Hwy 75 Expy",
+        "ResponseDate": "1/30/2014 8:14:12 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 26",
+            "VehicleID": null
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005777",
+        "Problem": "Grass/Brush Fire",
+        "Address": "5400 NB S HWY 75 EXPY",
+        "ResponseDate": "1/30/2014 8:11:51 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 3",
+              "Station": "Station 6",
+              "VehicleID": "ENG6"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 6",
+              "VehicleID": "GR10"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 6",
+              "VehicleID": "L26"
+            },
+            {
+              "Division": "District 3",
+              "Station": "Station 6",
+              "VehicleID": "SQ26"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005778",
+        "Problem": "Grass/Brush Fire",
+        "Address": "5500 Sb S Hwy 75 Expy",
+        "ResponseDate": "1/30/2014 8:11:34 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 3",
+            "Station": "Station 26",
+            "VehicleID": null
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005775",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "9800 EB E I244 EXPY",
+        "ResponseDate": "1/30/2014 8:03:16 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "ENG15"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "ENG17"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "L22"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "SQ22"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005774",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "6400 EB E I44 EXPY",
+        "ResponseDate": "1/30/2014 8:01:31 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 5",
+              "Station": "Station 23",
+              "VehicleID": "ENG25"
+            },
+            {
+              "Division": "District 5",
+              "Station": "Station 23",
+              "VehicleID": "SQ23"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005771",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "2100 S LOUISVILLE AVE",
+        "ResponseDate": "1/30/2014 7:48:18 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 7",
+            "VehicleID": null
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005770",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "2100 S LOUISVILLE AVE",
+        "ResponseDate": "1/30/2014 7:47:56 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 7",
+            "VehicleID": "ENG7"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005768",
+        "Problem": "Fluid Spill",
+        "Address": "10400 Wb E I244 Expy",
+        "ResponseDate": "1/30/2014 7:13:39 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 2",
+            "Station": "Station 30",
+            "VehicleID": "L30"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005767",
+        "Problem": "Residential Alarm",
+        "Address": "700 S 145th E Ave",
+        "ResponseDate": "1/30/2014 7:05:15 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 2",
+            "Station": "Station 30",
+            "VehicleID": "ENG30"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005765",
+        "Problem": "Motor Vehicle Accident",
+        "Address": "NB N HWY 11 EXPY ONRP WB I244",
+        "ResponseDate": "1/30/2014 6:55:30 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "ENG31"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "L31"
+            },
+            {
+              "Division": "District 2",
+              "Station": "Station 22",
+              "VehicleID": "SQ22"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005762",
+        "Problem": "Inv-Smoke/Detector/Odor/Fire",
+        "Address": "2200 E 12th St S",
+        "ResponseDate": "1/30/2014 6:26:39 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 1",
+            "Station": "Station 7",
+            "VehicleID": "ENG7"
+          }
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005758",
+        "Problem": "Building Fire",
+        "Address": "300 W 1st St S",
+        "ResponseDate": "1/30/2014 5:25:22 AM",
+        "Vehicles": {
+          "Vehicle": [
+            {
+              "Division": "District 1",
+              "Station": "Station 2",
+              "VehicleID": "C641"
+            },
+            {
+              "Division": "District 1",
+              "Station": "Station 2",
+              "VehicleID": "ENG2"
+            },
+            {
+              "Division": "District 1",
+              "Station": "Station 2",
+              "VehicleID": "ENG3"
+            },
+            {
+              "Division": "District 1",
+              "Station": "Station 2",
+              "VehicleID": "ENG4"
+            },
+            {
+              "Division": "District 1",
+              "Station": "Station 2",
+              "VehicleID": "ENG5"
+            },
+            {
+              "Division": "District 1",
+              "Station": "Station 2",
+              "VehicleID": "L4"
+            },
+            {
+              "Division": "District 1",
+              "Station": "Station 2",
+              "VehicleID": "L7"
+            },
+            {
+              "Division": "District 1",
+              "Station": "Station 2",
+              "VehicleID": "SQ2"
+            }
+          ]
+        }
+      },
+      {
+        "IncidentNumber": "TFD2014000005755",
+        "Problem": "Traumatic Injury",
+        "Address": "2400 N LEWIS AVE",
+        "ResponseDate": "1/30/2014 3:43:57 AM",
+        "Vehicles": {
+          "Vehicle": {
+            "Division": "District 4",
+            "Station": "Station 10",
+            "VehicleID": "ENG16"
+          }
+        }
+      }
+    ]
+  }
+}
