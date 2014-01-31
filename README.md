@@ -15,6 +15,8 @@ new open data sets.  They are also
 [requesting feedback](https://www.cityoftulsa.org/our-city/open-tulsa/suggest-dataset.aspx)
 on the site and other datasets that citizens would like to see.
 
-This repository is for documenting the
-[published datasets](https://www.cityoftulsa.org/our-city/open-tulsa/open-tulsa-dataset-list.aspx),
-and providing sample software for working with the datasets.
+Eventually, this repository will include tools and sample code for working with the
+[published datasets](https://www.cityoftulsa.org/our-city/open-tulsa/open-tulsa-dataset-list.aspx).
+However, the immediate need is to document how to work with the data - we're using the
+[wiki](https://github.com/codefortulsa/OpenTulsaDataTools/wiki)
+to document what we figure out.
