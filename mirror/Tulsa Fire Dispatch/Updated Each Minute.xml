@@ -1,9 +1,59 @@
 <Incidents>
   <Incident>
-    <IncidentNumber>TFD2014000005962</IncidentNumber>
+    <IncidentNumber>TFD2014000010005</IncidentNumber>
+    <Problem>Residential Alarm</Problem>
+    <Address>5500 S Delaware Ct</Address>
+    <ResponseDate>2/22/2014 4:54:41 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009999</IncidentNumber>
+    <Problem>MVA- Motorcycle/Bicycle/ATV</Problem>
+    <Address>E ADMIRAL BLVD / N HARVARD AVE</Address>
+    <ResponseDate>2/22/2014 4:19:22 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 15</Station>
+        <VehicleID>ENG15</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 15</Station>
+        <VehicleID>ENG17</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009995</IncidentNumber>
+    <Problem>Lines Down</Problem>
+    <Address>300 S Phoenix Ave</Address>
+    <ResponseDate>2/22/2014 3:52:22 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 4</Station>
+        <VehicleID>ENG4</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 4</Station>
+        <VehicleID>L4</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009993</IncidentNumber>
     <Problem>Apartment Fire</Problem>
-    <Address>1300 E 64th St S</Address>
-    <ResponseDate>1/31/2014 7:28:30 AM</ResponseDate>
+    <Address>1000 E 60th St S</Address>
+    <ResponseDate>2/22/2014 3:17:15 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 3</Division>
@@ -13,17 +63,17 @@
       <Vehicle>
         <Division>District 3</Division>
         <Station>Station 18</Station>
+        <VehicleID>ENG12</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 18</Station>
         <VehicleID>ENG14</VehicleID>
       </Vehicle>
       <Vehicle>
         <Division>District 3</Division>
         <Station>Station 18</Station>
-        <VehicleID>ENG29</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 18</Station>
-        <VehicleID>ENG6</VehicleID>
+        <VehicleID>ENG25</VehicleID>
       </Vehicle>
       <Vehicle>
         <Division>District 3</Division>
@@ -43,86 +93,61 @@
       <Vehicle>
         <Division>District 3</Division>
         <Station>Station 18</Station>
-        <VehicleID>SQ23</VehicleID>
+        <VehicleID>SQ26</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005961</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>6700 S SHERIDAN RD</Address>
-    <ResponseDate>1/31/2014 7:03:14 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 28</Station>
-        <VehicleID>ENG28</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005960</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>5100 Nb S Hwy 169 Expy</Address>
-    <ResponseDate>1/31/2014 6:56:22 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 20</Station>
-        <VehicleID>ENG27</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 20</Station>
-        <VehicleID>L20</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005958</IncidentNumber>
+    <IncidentNumber>TFD2014000009990</IncidentNumber>
     <Problem>Assist Other Agencies</Problem>
-    <Address>2500 E 21ST ST S</Address>
-    <ResponseDate>1/31/2014 6:48:06 AM</ResponseDate>
+    <Address>2400 W 51st St S</Address>
+    <ResponseDate>2/22/2014 3:08:16 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 7</Station>
-        <VehicleID>ENG7</VehicleID>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>SQ26</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005949</IncidentNumber>
-    <Problem>Business Alarm</Problem>
-    <Address>800 S Detroit Ave</Address>
-    <ResponseDate>1/31/2014 4:42:30 AM</ResponseDate>
+    <IncidentNumber>TFD2014000009980</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>4800 S Darlington Ave</Address>
+    <ResponseDate>2/22/2014 2:31:47 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 4</Station>
-        <VehicleID>ENG4</VehicleID>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>
+        </VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005946</IncidentNumber>
-    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
-    <Address>200 E 53rd St N</Address>
-    <ResponseDate>1/31/2014 4:25:33 AM</ResponseDate>
+    <IncidentNumber>TFD2014000009979</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>5000 S Fulton Ave</Address>
+    <ResponseDate>2/22/2014 2:31:22 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 19</Station>
-        <VehicleID>ENG19</VehicleID>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>ENG25</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005944</IncidentNumber>
-    <Problem>Traumatic Injury</Problem>
-    <Address>4700 S DARLINGTON AVE</Address>
-    <ResponseDate>1/31/2014 3:23:57 AM</ResponseDate>
+    <IncidentNumber>TFD2014000009977</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>5100 S HARVARD AVE</Address>
+    <ResponseDate>2/22/2014 2:24:28 PM</ResponseDate>
     <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>L23</VehicleID>
+      </Vehicle>
       <Vehicle>
         <Division>District 5</Division>
         <Station>Station 23</Station>
@@ -131,10 +156,10 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005937</IncidentNumber>
-    <Problem>Residential Alarm</Problem>
-    <Address>700 E 48th St N</Address>
-    <ResponseDate>1/31/2014 12:30:22 AM</ResponseDate>
+    <IncidentNumber>TFD2014000009975</IncidentNumber>
+    <Problem>Fluid Spill</Problem>
+    <Address>800 E 52nd St N</Address>
+    <ResponseDate>2/22/2014 2:22:08 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 4</Division>
@@ -144,63 +169,23 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005936</IncidentNumber>
-    <Problem>Apartment Fire</Problem>
-    <Address>7600 E 49th St S</Address>
-    <ResponseDate>1/30/2014 11:40:58 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009972</IncidentNumber>
+    <Problem>Dumpster Fire</Problem>
+    <Address>9500 E 65th St S</Address>
+    <ResponseDate>2/22/2014 2:09:52 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 5</Division>
-        <Station>Station 25</Station>
-        <VehicleID>C645</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 25</Station>
-        <VehicleID>ENG20</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 25</Station>
-        <VehicleID>ENG21</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 25</Station>
-        <VehicleID>ENG25</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 25</Station>
-        <VehicleID>ENG27</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 25</Station>
-        <VehicleID>ENG28</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 25</Station>
+        <Station>Station 20</Station>
         <VehicleID>L20</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 25</Station>
-        <VehicleID>L23</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 25</Station>
-        <VehicleID>SQ23</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005932</IncidentNumber>
-    <Problem>Carbon Monoxide - No sympt</Problem>
-    <Address>7300 E Marshall Pl</Address>
-    <ResponseDate>1/30/2014 11:17:32 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009971</IncidentNumber>
+    <Problem>Carbon Monoxide - Multi Pts</Problem>
+    <Address>6300 E Newton Pl</Address>
+    <ResponseDate>2/22/2014 2:09:02 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 4</Division>
@@ -210,180 +195,224 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005931</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>100 E 1ST ST S</Address>
-    <ResponseDate>1/30/2014 11:12:25 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009963</IncidentNumber>
+    <Problem>Residential Alarm</Problem>
+    <Address>3500 S Irvington Pl</Address>
+    <ResponseDate>2/22/2014 1:16:52 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 2</Station>
-        <VehicleID>ENG3</VehicleID>
+        <Division>District 5</Division>
+        <Station>Station 21</Station>
+        <VehicleID>ENG21</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005929</IncidentNumber>
-    <Problem>Apartment Fire</Problem>
-    <Address>11000 E 43rd St S</Address>
-    <ResponseDate>1/30/2014 10:55:47 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009964</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>2500 E 47th St S</Address>
+    <ResponseDate>2/22/2014 1:16:36 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 14</Station>
+        <VehicleID>ENG14</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 14</Station>
+        <VehicleID>ENG18</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009961</IncidentNumber>
+    <Problem>House Fire</Problem>
+    <Address>1900 W 46TH PL S</Address>
+    <ResponseDate>2/22/2014 1:14:40 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>AIR4</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>C643</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>ENG12</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>ENG18</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>ENG29</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>ENG6</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>L26</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>SQ26</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009962</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>1900 W 47th St S</Address>
+    <ResponseDate>2/22/2014 1:14:36 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 26</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009959</IncidentNumber>
+    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
+    <Address>2100 E 51st St S</Address>
+    <ResponseDate>2/22/2014 1:13:25 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 18</Station>
+        <VehicleID>ENG18</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009958</IncidentNumber>
+    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
+    <Address>1200 S 107th E Ave</Address>
+    <ResponseDate>2/22/2014 1:11:38 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>C645</VehicleID>
+        <Station>Station 30</Station>
+        <VehicleID>ENG30</VehicleID>
       </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009956</IncidentNumber>
+    <Problem>MVA- Auto-Ped</Problem>
+    <Address>3100 S SHERIDAN RD</Address>
+    <ResponseDate>2/22/2014 12:48:13 PM</ResponseDate>
+    <Vehicles>
       <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>ENG20</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
+        <Division>District 5</Division>
+        <Station>Station 21</Station>
         <VehicleID>ENG21</VehicleID>
       </Vehicle>
       <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
+        <Division>District 5</Division>
+        <Station>Station 21</Station>
         <VehicleID>ENG25</VehicleID>
       </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>ENG27</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>L20</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>L23</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>L27</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>L30</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>SQ23</VehicleID>
-      </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005921</IncidentNumber>
-    <Problem>Natural Gas Leak</Problem>
-    <Address>3000 S Mingo Rd</Address>
-    <ResponseDate>1/30/2014 10:29:24 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009955</IncidentNumber>
+    <Problem>Business Alarm - School/THA</Problem>
+    <Address>6500 S Newport Ave</Address>
+    <ResponseDate>2/22/2014 12:45:23 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>L27</VehicleID>
+        <Division>District 3</Division>
+        <Station>Station 18</Station>
+        <VehicleID>ENG18</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 18</Station>
+        <VehicleID>ENG29</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 18</Station>
+        <VehicleID>L29</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005917</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>1500 N PEORIA AVE</Address>
-    <ResponseDate>1/30/2014 9:43:45 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009951</IncidentNumber>
+    <Problem>Traumatic Injury</Problem>
+    <Address>1900 N KINGSTON PL</Address>
+    <ResponseDate>2/22/2014 12:40:35 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 4</Division>
-        <Station>Station 10</Station>
+        <Station>Station 17</Station>
+        <VehicleID>ENG17</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009949</IncidentNumber>
+    <Problem>House Fire</Problem>
+    <Address>2100 E 36th St N</Address>
+    <ResponseDate>2/22/2014 12:18:23 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>C644</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>C762</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>C769</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
         <VehicleID>ENG10</VehicleID>
       </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005914</IncidentNumber>
-    <Problem>Assist Other Agencies</Problem>
-    <Address>4200 E 84th Pl S</Address>
-    <ResponseDate>1/30/2014 9:12:56 PM</ResponseDate>
-    <Vehicles>
       <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 32</Station>
-        <VehicleID>L32</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005905</IncidentNumber>
-    <Problem>Grass/Brush Fire</Problem>
-    <Address>6100 Nb S Hwy 169 Expy</Address>
-    <ResponseDate>1/30/2014 8:28:28 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 20</Station>
-        <VehicleID>ENG20</VehicleID>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG15</VehicleID>
       </Vehicle>
       <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 20</Station>
-        <VehicleID>ENG27</VehicleID>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG16</VehicleID>
       </Vehicle>
       <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 20</Station>
-        <VehicleID>ENG28</VehicleID>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG17</VehicleID>
       </Vehicle>
       <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 20</Station>
-        <VehicleID>L27</VehicleID>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG19</VehicleID>
       </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005904</IncidentNumber>
-    <Problem>Assist Other Agencies</Problem>
-    <Address>5100 E 51ST ST S</Address>
-    <ResponseDate>1/30/2014 8:22:14 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 23</Station>
-        <VehicleID>L23</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 23</Station>
-        <VehicleID>SQ23</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005902</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>9700 E 71st St S</Address>
-    <ResponseDate>1/30/2014 8:08:22 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 20</Station>
-        <VehicleID>ENG20</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005901</IncidentNumber>
-    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
-    <Address>1700 E 36th St N</Address>
-    <ResponseDate>1/30/2014 8:07:00 PM</ResponseDate>
-    <Vehicles>
       <Vehicle>
         <Division>District 4</Division>
         <Station>Station 24</Station>
@@ -397,127 +426,386 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005900</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>3000 MOHAWK BLVD</Address>
-    <ResponseDate>1/30/2014 8:05:04 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 16</Station>
-        <VehicleID>ENG10</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 16</Station>
-        <VehicleID>ENG24</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005898</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>3200 E ADMIRAL PL</Address>
-    <ResponseDate>1/30/2014 7:53:26 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>ENG15</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>HM1</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>HM2</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>L7</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005897</IncidentNumber>
+    <IncidentNumber>TFD2014000009937</IncidentNumber>
     <Problem>Assist Other Agencies</Problem>
-    <Address>3000 S Yorktown Ave</Address>
-    <ResponseDate>1/30/2014 7:50:24 PM</ResponseDate>
+    <Address>5700 S LEWIS AVE</Address>
+    <ResponseDate>2/22/2014 11:06:07 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 3</Division>
-        <Station>Station 14</Station>
-        <VehicleID>ENG14</VehicleID>
+        <Station>Station 29</Station>
+        <VehicleID>ENG29</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005896</IncidentNumber>
-    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
-    <Address>4700 E 7th St S</Address>
-    <ResponseDate>1/30/2014 7:35:33 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009934</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>8100 S Memorial Dr</Address>
+    <ResponseDate>2/22/2014 10:52:55 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>ENG7</VehicleID>
+        <Division>District 5</Division>
+        <Station>Station 28</Station>
+        <VehicleID>ENG28</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005895</IncidentNumber>
-    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
-    <Address>10900 S Erie Ave</Address>
-    <ResponseDate>1/30/2014 7:17:03 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009922</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>2600 W 61st St S</Address>
+    <ResponseDate>2/22/2014 9:40:49 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 3</Division>
-        <Station>Station 9</Station>
-        <VehicleID>ENG9</VehicleID>
+        <Station>Station 6</Station>
+        <VehicleID>C762</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 6</Station>
+        <VehicleID>ENG6</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005894</IncidentNumber>
-    <Problem>Natural Gas Leak</Problem>
-    <Address>1700 - 1989 N Quincy Ave</Address>
-    <ResponseDate>1/30/2014 7:14:35 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009919</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>2000 S Garnett Rd</Address>
+    <ResponseDate>2/22/2014 9:15:08 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 27</Station>
+        <VehicleID>ENG27</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009914</IncidentNumber>
+    <Problem>Assist Other Agencies</Problem>
+    <Address>6600 S 75th E Ave</Address>
+    <ResponseDate>2/22/2014 8:39:14 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 28</Station>
+        <VehicleID>ENG28</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009899</IncidentNumber>
+    <Problem>Residential Alarm</Problem>
+    <Address>1400 N Santafe Ave</Address>
+    <ResponseDate>2/22/2014 5:43:54 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 4</Division>
         <Station>Station 10</Station>
+        <VehicleID>ENG10</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009898</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>400 W 7th St S</Address>
+    <ResponseDate>2/22/2014 5:22:55 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 4</Station>
+        <VehicleID>ENG4</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009896</IncidentNumber>
+    <Problem>Assist Other Agencies</Problem>
+    <Address>8500 S LEWIS AVE</Address>
+    <ResponseDate>2/22/2014 4:34:36 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 29</Station>
+        <VehicleID>ENG29</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009892</IncidentNumber>
+    <Problem>Assist Other Agencies</Problem>
+    <Address>6800 S GRANITE AVE</Address>
+    <ResponseDate>2/22/2014 3:33:30 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 28</Station>
+        <VehicleID>ENG28</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009891</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>2500 E 51ST ST S</Address>
+    <ResponseDate>2/22/2014 3:11:41 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>L23</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>SQ23</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009887</IncidentNumber>
+    <Problem>Assist Other Agencies</Problem>
+    <Address>8500 S LEWIS AVE</Address>
+    <ResponseDate>2/22/2014 2:27:59 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 29</Station>
+        <VehicleID>ENG29</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009885</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>4100 S HUDSON AVE</Address>
+    <ResponseDate>2/22/2014 2:00:47 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 21</Station>
         <VehicleID>
         </VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005888</IncidentNumber>
-    <Problem>MVA- Auto-Ped</Problem>
-    <Address>8100 E ADMIRAL PL</Address>
-    <ResponseDate>1/30/2014 6:29:18 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009884</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>4100 S Hudson Ave</Address>
+    <ResponseDate>2/22/2014 1:58:20 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>L22</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>SQ22</VehicleID>
+        <Division>District 5</Division>
+        <Station>Station 21</Station>
+        <VehicleID>ENG21</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005880</IncidentNumber>
+    <IncidentNumber>TFD2014000009881</IncidentNumber>
     <Problem>Motor Vehicle Accident</Problem>
-    <Address>9100 S YALE AVE</Address>
-    <ResponseDate>1/30/2014 5:52:28 PM</ResponseDate>
+    <Address>2000 E 51ST ST S</Address>
+    <ResponseDate>2/22/2014 1:43:50 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 18</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009880</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>2000 E 51st St S</Address>
+    <ResponseDate>2/22/2014 1:42:06 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 18</Station>
+        <VehicleID>ENG18</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009879</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>7900 EB E I44 EXPY</Address>
+    <ResponseDate>2/22/2014 1:25:42 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
+        <VehicleID>ENG25</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
+        <VehicleID>SQ23</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009877</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>6500 Eb E Hwy 11 Expy</Address>
+    <ResponseDate>2/22/2014 1:09:26 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 17</Station>
+        <VehicleID>ENG16</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 17</Station>
+        <VehicleID>ENG17</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009871</IncidentNumber>
+    <Problem>Business Alarm - School/THA</Problem>
+    <Address>3900 E 91st St S</Address>
+    <ResponseDate>2/22/2014 12:12:49 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 32</Station>
+        <VehicleID>ENG29</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 32</Station>
+        <VehicleID>ENG9</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 32</Station>
+        <VehicleID>L29</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009870</IncidentNumber>
+    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
+    <Address>4600 E 80th St S</Address>
+    <ResponseDate>2/22/2014 12:05:25 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 32</Station>
+        <VehicleID>L32</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009868</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>7600 S Yale Ave</Address>
+    <ResponseDate>2/21/2014 11:43:36 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 28</Station>
+        <VehicleID>ENG28</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 28</Station>
+        <VehicleID>SQ32</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009867</IncidentNumber>
+    <Problem>Dumpster Fire</Problem>
+    <Address>4600 E 80th St S</Address>
+    <ResponseDate>2/21/2014 11:34:58 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 32</Station>
+        <VehicleID>L32</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009862</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>7600 S Garnett Rd</Address>
+    <ResponseDate>2/21/2014 10:44:29 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>ENG20</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009861</IncidentNumber>
+    <Problem>Dumpster Fire</Problem>
+    <Address>1300 S Garnett Rd</Address>
+    <ResponseDate>2/21/2014 10:39:09 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 27</Station>
+        <VehicleID>ENG27</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009860</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>5200 S LEWIS AVE</Address>
+    <ResponseDate>2/21/2014 10:15:37 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>ENG18</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009856</IncidentNumber>
+    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
+    <Address>3600 S Sheridan Rd</Address>
+    <ResponseDate>2/21/2014 9:54:17 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 25</Station>
+        <VehicleID>ENG25</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009851</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>9100 S MINGO RD</Address>
+    <ResponseDate>2/21/2014 9:24:23 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 32</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009850</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>9100 S Mingo Rd</Address>
+    <ResponseDate>2/21/2014 9:23:10 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 5</Division>
@@ -532,49 +820,253 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005876</IncidentNumber>
-    <Problem>Open Burn</Problem>
-    <Address>1300 N 78TH E AVE</Address>
-    <ResponseDate>1/30/2014 5:32:38 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009848</IncidentNumber>
+    <Problem>Assist Other Agencies</Problem>
+    <Address>6100 S YALE AVE</Address>
+    <ResponseDate>2/21/2014 8:57:18 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 17</Station>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009847</IncidentNumber>
+    <Problem>Open Burn</Problem>
+    <Address>3700 W 42ND PL S</Address>
+    <ResponseDate>2/21/2014 8:54:34 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 12</Station>
+        <VehicleID>ENG12</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009845</IncidentNumber>
+    <Problem>Investigate Unk Fire</Problem>
+    <Address>11400 Eb E I44 Expy</Address>
+    <ResponseDate>2/21/2014 8:38:20 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 27</Station>
+        <VehicleID>ENG27</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 27</Station>
+        <VehicleID>ENG30</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009841</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>100 N MEMORIAL DR</Address>
+    <ResponseDate>2/21/2014 8:11:11 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
         <VehicleID>ENG17</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005875</IncidentNumber>
+    <IncidentNumber>TFD2014000009840</IncidentNumber>
+    <Problem>Fluid Spill</Problem>
+    <Address>5000 S Harvard Ave</Address>
+    <ResponseDate>2/21/2014 7:44:01 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>HM1</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>HM2</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009839</IncidentNumber>
+    <Problem>Natural Gas Leak</Problem>
+    <Address>5500 E 47th Pl S</Address>
+    <ResponseDate>2/21/2014 7:29:32 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>HM1</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>HM2</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>L23</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009838</IncidentNumber>
     <Problem>Open Burn</Problem>
-    <Address>1900 E Oklahoma Pl</Address>
-    <ResponseDate>1/30/2014 5:29:13 PM</ResponseDate>
+    <Address>10000 S Sheridan Rd</Address>
+    <ResponseDate>2/21/2014 7:18:56 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 32</Station>
+        <VehicleID>L32</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009837</IncidentNumber>
+    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
+    <Address>1300 S Darlington Ave</Address>
+    <ResponseDate>2/21/2014 7:18:05 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
+        <VehicleID>L22</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009836</IncidentNumber>
+    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
+    <Address>600 W 15th St S</Address>
+    <ResponseDate>2/21/2014 7:14:06 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 4</Station>
+        <VehicleID>ENG4</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009829</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>11300 E 31st St S</Address>
+    <ResponseDate>2/21/2014 6:38:46 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 27</Station>
+        <VehicleID>ENG27</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009828</IncidentNumber>
+    <Problem>Open Burn</Problem>
+    <Address>2300 E Pine St</Address>
+    <ResponseDate>2/21/2014 6:35:54 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 4</Division>
         <Station>Station 3</Station>
-        <VehicleID>ENG10</VehicleID>
+        <VehicleID>ENG3</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005873</IncidentNumber>
-    <Problem>Assist Other Agencies</Problem>
-    <Address>2200 E 59th St S</Address>
-    <ResponseDate>1/30/2014 5:20:15 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009827</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>400 W 7th St S</Address>
+    <ResponseDate>2/21/2014 6:23:12 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 29</Station>
-        <VehicleID>L29</VehicleID>
+        <Division>District 1</Division>
+        <Station>Station 4</Station>
+        <VehicleID>
+        </VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005867</IncidentNumber>
+    <IncidentNumber>TFD2014000009823</IncidentNumber>
+    <Problem>Carbon Monoxide - No sympt</Problem>
+    <Address>700 E 37th Pl N</Address>
+    <ResponseDate>2/21/2014 6:13:27 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG24</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009822</IncidentNumber>
+    <Problem>Open Burn</Problem>
+    <Address>100 N Vancouver Ave</Address>
+    <ResponseDate>2/21/2014 6:03:52 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 2</Station>
+        <VehicleID>ENG2</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009819</IncidentNumber>
+    <Problem>Traumatic Injury</Problem>
+    <Address>800 N COLUMBIA PL</Address>
+    <ResponseDate>2/21/2014 5:58:22 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 3</Station>
+        <VehicleID>ENG3</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009818</IncidentNumber>
     <Problem>Motor Vehicle Accident</Problem>
-    <Address>1100 S BIRMINGHAM AVE</Address>
-    <ResponseDate>1/30/2014 4:55:15 PM</ResponseDate>
+    <Address>2700 S SHERIDAN RD</Address>
+    <ResponseDate>2/21/2014 5:41:30 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 21</Station>
+        <VehicleID>ENG21</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009815</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>1800 S Boulder Ave</Address>
+    <ResponseDate>2/21/2014 5:11:46 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 5</Station>
+        <VehicleID>ENG5</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009812</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>2400 E 15th St S</Address>
+    <ResponseDate>2/21/2014 4:57:08 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 1</Division>
@@ -584,103 +1076,143 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005864</IncidentNumber>
+    <IncidentNumber>TFD2014000009809</IncidentNumber>
     <Problem>Residential Alarm</Problem>
-    <Address>4300 E 118th St S</Address>
-    <ResponseDate>1/30/2014 4:37:14 PM</ResponseDate>
+    <Address>1500 E 36th Pl S</Address>
+    <ResponseDate>2/21/2014 4:31:13 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 3</Division>
-        <Station>Station 9</Station>
-        <VehicleID>ENG9</VehicleID>
+        <Station>Station 14</Station>
+        <VehicleID>ENG14</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005863</IncidentNumber>
-    <Problem>Traumatic Injury</Problem>
-    <Address>11300 E 23RD ST S</Address>
-    <ResponseDate>1/30/2014 4:33:24 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009808</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>200 S 101st E Ave</Address>
+    <ResponseDate>2/21/2014 4:29:17 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>ENG27</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>L27</VehicleID>
+        <Station>Station 22</Station>
+        <VehicleID>L22</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005861</IncidentNumber>
-    <Problem>Residential Alarm</Problem>
-    <Address>5500 E 103rd St S</Address>
-    <ResponseDate>1/30/2014 4:20:37 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 9</Station>
-        <VehicleID>ENG9</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005860</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>5100 S Yale Ave</Address>
-    <ResponseDate>1/30/2014 3:46:38 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 23</Station>
-        <VehicleID>L23</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005858</IncidentNumber>
-    <Problem>Business Alarm - School/THA</Problem>
-    <Address>4200 S 109th E Ave</Address>
-    <ResponseDate>1/30/2014 3:36:52 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009806</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>200 S 102nd E Ave</Address>
+    <ResponseDate>2/21/2014 4:28:38 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>ENG25</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>ENG27</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>L27</VehicleID>
+        <Station>Station 22</Station>
+        <VehicleID>
+        </VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005856</IncidentNumber>
+    <IncidentNumber>TFD2014000009800</IncidentNumber>
     <Problem>Motor Vehicle Accident</Problem>
-    <Address>7100 S CANTON AVE</Address>
-    <ResponseDate>1/30/2014 3:30:31 PM</ResponseDate>
+    <Address>2100 S SHERIDAN RD</Address>
+    <ResponseDate>2/21/2014 3:59:36 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 28</Station>
-        <VehicleID>ENG29</VehicleID>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
+        <VehicleID>L22</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
+        <VehicleID>SQ22</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005855</IncidentNumber>
-    <Problem>Business Alarm</Problem>
-    <Address>9900 E 58th St S</Address>
-    <ResponseDate>1/30/2014 3:19:59 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009799</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>3100 S 257th E Ave</Address>
+    <ResponseDate>2/21/2014 3:55:17 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009798</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>3100 S 257th E Ave</Address>
+    <ResponseDate>2/21/2014 3:55:13 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>ENG30</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>GR30</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>L30</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>OGE1</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>OGS2</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>OGS4</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>OGU10</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>OGU9</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009796</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>4700 S Garnett Rd</Address>
+    <ResponseDate>2/21/2014 3:45:42 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>L27</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009794</IncidentNumber>
+    <Problem>Fluid Spill</Problem>
+    <Address>10000 E 71st St S</Address>
+    <ResponseDate>2/21/2014 3:41:44 PM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 5</Division>
@@ -690,10 +1222,493 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005853</IncidentNumber>
+    <IncidentNumber>TFD2014000009793</IncidentNumber>
+    <Problem>Fluid Spill</Problem>
+    <Address>5000 S Fulton Ave</Address>
+    <ResponseDate>2/21/2014 3:36:39 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009792</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>3200 E 51ST ST S</Address>
+    <ResponseDate>2/21/2014 3:33:32 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009791</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>5500 E 51ST ST S</Address>
+    <ResponseDate>2/21/2014 3:30:37 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>ENG21</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 23</Station>
+        <VehicleID>SQ23</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009788</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>8700 E 51ST ST S</Address>
+    <ResponseDate>2/21/2014 2:52:11 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009787</IncidentNumber>
+    <Problem>Car Fire</Problem>
+    <Address>8700 E 51st St S</Address>
+    <ResponseDate>2/21/2014 2:47:47 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>L20</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009786</IncidentNumber>
+    <Problem>Business Alarm - Hosp/NH</Problem>
+    <Address>6800 S Granite Ave</Address>
+    <ResponseDate>2/21/2014 2:40:55 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 28</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009785</IncidentNumber>
+    <Problem>Traumatic Injury</Problem>
+    <Address>8600 E ADMIRAL PL</Address>
+    <ResponseDate>2/21/2014 2:27:42 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
+        <VehicleID>SQ22</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009784</IncidentNumber>
     <Problem>Grass/Brush Fire</Problem>
-    <Address>4800 S Elwood Ave</Address>
-    <ResponseDate>1/30/2014 3:17:03 PM</ResponseDate>
+    <Address>8100 E Admiral Pl</Address>
+    <ResponseDate>2/21/2014 2:22:32 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
+        <VehicleID>L22</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009780</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>300 S Delaware Ave</Address>
+    <ResponseDate>2/21/2014 2:10:12 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 15</Station>
+        <VehicleID>ENG7</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009778</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>2400 N Harvard Ave</Address>
+    <ResponseDate>2/21/2014 1:52:07 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 16</Station>
+        <VehicleID>ENG16</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009776</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>8100 E 61st St S</Address>
+    <ResponseDate>2/21/2014 1:44:19 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009775</IncidentNumber>
+    <Problem>MVA- Motorcycle/Bicycle/ATV</Problem>
+    <Address>8300 E 61ST ST S</Address>
+    <ResponseDate>2/21/2014 1:43:59 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>ENG20</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009774</IncidentNumber>
+    <Problem>House Fire</Problem>
+    <Address>1700 E 31st Pl N</Address>
+    <ResponseDate>2/21/2014 1:33:49 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>C644</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG16</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG2</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG24</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG3</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>L24</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009773</IncidentNumber>
+    <Problem>MVA- Multi Veh/Patients</Problem>
+    <Address>1500 N PEORIA AVE</Address>
+    <ResponseDate>2/21/2014 1:28:19 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 10</Station>
+        <VehicleID>ENG10</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009767</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>4100 S HARVARD AVE</Address>
+    <ResponseDate>2/21/2014 1:00:11 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 14</Station>
+        <VehicleID>
+        </VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009764</IncidentNumber>
+    <Problem>Fluid Spill</Problem>
+    <Address>6100 S PEORIA AVE</Address>
+    <ResponseDate>2/21/2014 12:28:54 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 3</Division>
+        <Station>Station 18</Station>
+        <VehicleID>ENG29</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009760</IncidentNumber>
+    <Problem>Business Alarm - School/THA</Problem>
+    <Address>4200 S 109th E Ave</Address>
+    <ResponseDate>2/21/2014 12:22:46 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 27</Station>
+        <VehicleID>ENG21</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 27</Station>
+        <VehicleID>ENG27</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 27</Station>
+        <VehicleID>L27</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009758</IncidentNumber>
+    <Problem>Apartment Fire</Problem>
+    <Address>8000 S MINGO RD</Address>
+    <ResponseDate>2/21/2014 12:19:17 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>C645</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>ENG20</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>ENG21</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>ENG25</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>ENG28</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>ENG9</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>L20</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>L27</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>L29</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>L32</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>SQ32</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009757</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>4200 S 33RD W AVE</Address>
+    <ResponseDate>2/21/2014 12:18:36 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 12</Station>
+        <VehicleID>C641</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 12</Station>
+        <VehicleID>ENG12</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 12</Station>
+        <VehicleID>ENG5</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 12</Station>
+        <VehicleID>L26</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 12</Station>
+        <VehicleID>L4</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 12</Station>
+        <VehicleID>RES4</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 12</Station>
+        <VehicleID>SQ26</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 12</Station>
+        <VehicleID>T4</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009755</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>5000 S 129th E Ave</Address>
+    <ResponseDate>2/21/2014 12:02:26 PM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 27</Station>
+        <VehicleID>ENG27</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009754</IncidentNumber>
+    <Problem>Assist Other Agencies</Problem>
+    <Address>300 N DENVER AVE</Address>
+    <ResponseDate>2/21/2014 11:47:55 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 1</Division>
+        <Station>Station 2</Station>
+        <VehicleID>SQ2</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009751</IncidentNumber>
+    <Problem>Building Fire</Problem>
+    <Address>2300 E Independence St</Address>
+    <ResponseDate>2/21/2014 11:33:55 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 3</Station>
+        <VehicleID>C644</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 3</Station>
+        <VehicleID>ENG10</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 3</Station>
+        <VehicleID>ENG15</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 3</Station>
+        <VehicleID>ENG16</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 3</Station>
+        <VehicleID>ENG3</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 3</Station>
+        <VehicleID>ENG7</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 3</Station>
+        <VehicleID>L4</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 3</Station>
+        <VehicleID>L7</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009748</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>7800 E Admiral Pl</Address>
+    <ResponseDate>2/21/2014 11:17:17 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
+        <VehicleID>ENG17</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 22</Station>
+        <VehicleID>ENG31</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009747</IncidentNumber>
+    <Problem>Assist Other Agencies</Problem>
+    <Address>1600 S 131st E Pl</Address>
+    <ResponseDate>2/21/2014 11:15:26 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>ENG30</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009746</IncidentNumber>
+    <Problem>Open Burn</Problem>
+    <Address>4900 S Madison Ave</Address>
+    <ResponseDate>2/21/2014 10:52:14 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 3</Division>
@@ -703,79 +1718,95 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005852</IncidentNumber>
-    <Problem>Grass/Brush Fire</Problem>
-    <Address>3600 E Young St</Address>
-    <ResponseDate>1/30/2014 3:15:39 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 16</Station>
-        <VehicleID>ENG17</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005848</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>2000 S 129TH E AVE</Address>
-    <ResponseDate>1/30/2014 3:00:07 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009745</IncidentNumber>
+    <Problem>Open Burn</Problem>
+    <Address>1300 S 161st E Ave</Address>
+    <ResponseDate>2/21/2014 10:37:54 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 2</Division>
-        <Station>Station 27</Station>
-        <VehicleID>ENG30</VehicleID>
+        <Station>Station 30</Station>
+        <VehicleID>GR30</VehicleID>
+      </Vehicle>
+      <Vehicle>
+        <Division>District 2</Division>
+        <Station>Station 30</Station>
+        <VehicleID>L30</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005843</IncidentNumber>
-    <Problem>Grass/Brush Fire</Problem>
-    <Address>5200 N LEWIS AVE</Address>
-    <ResponseDate>1/30/2014 2:33:42 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009744</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>9800 RIVERSIDE PKWY</Address>
+    <ResponseDate>2/21/2014 10:32:20 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 19</Station>
-        <VehicleID>ENG19</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005844</IncidentNumber>
-    <Problem>Grass/Brush Fire</Problem>
-    <Address>5200 N Lewis Ave</Address>
-    <ResponseDate>1/30/2014 2:33:23 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 19</Station>
+        <Division>District 3</Division>
+        <Station>Station 29</Station>
         <VehicleID>
         </VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005840</IncidentNumber>
-    <Problem>Building Fire</Problem>
-    <Address>12100 E 11th St S</Address>
-    <ResponseDate>1/30/2014 2:19:59 PM</ResponseDate>
+    <IncidentNumber>TFD2014000009742</IncidentNumber>
+    <Problem>Car Fire</Problem>
+    <Address>200 Woodward Blvd</Address>
+    <ResponseDate>2/21/2014 10:15:42 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 30</Station>
-        <VehicleID>C642</VehicleID>
+        <Division>District 1</Division>
+        <Station>Station 5</Station>
+        <VehicleID>L4</VehicleID>
       </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009737</IncidentNumber>
+    <Problem>Motor Vehicle Accident</Problem>
+    <Address>9800 RIVERSIDE PKWY</Address>
+    <ResponseDate>2/21/2014 9:51:56 AM</ResponseDate>
+    <Vehicles>
       <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 30</Station>
+        <Division>District 3</Division>
+        <Station>Station 29</Station>
+        <VehicleID>ENG9</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009736</IncidentNumber>
+    <Problem>Traumatic Injury</Problem>
+    <Address>6700 S MINGO RD</Address>
+    <ResponseDate>2/21/2014 9:50:50 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
         <VehicleID>ENG20</VehicleID>
       </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009734</IncidentNumber>
+    <Problem>Business Alarm</Problem>
+    <Address>1800 S Boulder Ave</Address>
+    <ResponseDate>2/21/2014 9:39:03 AM</ResponseDate>
+    <Vehicles>
       <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 30</Station>
-        <VehicleID>ENG25</VehicleID>
+        <Division>District 1</Division>
+        <Station>Station 5</Station>
+        <VehicleID>ENG5</VehicleID>
       </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009730</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>1500 S 161st E Ave</Address>
+    <ResponseDate>2/21/2014 9:21:57 AM</ResponseDate>
+    <Vehicles>
       <Vehicle>
         <Division>District 2</Division>
         <Station>Station 30</Station>
@@ -784,80 +1815,20 @@
       <Vehicle>
         <Division>District 2</Division>
         <Station>Station 30</Station>
-        <VehicleID>ENG30</VehicleID>
+        <VehicleID>GR30</VehicleID>
       </Vehicle>
       <Vehicle>
         <Division>District 2</Division>
         <Station>Station 30</Station>
-        <VehicleID>L20</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 30</Station>
-        <VehicleID>L22</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 30</Station>
-        <VehicleID>L27</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 30</Station>
-        <VehicleID>SQ22</VehicleID>
+        <VehicleID>L30</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005841</IncidentNumber>
-    <Problem>Building Fire</Problem>
-    <Address>12100 E 11th St S</Address>
-    <ResponseDate>1/30/2014 2:19:15 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 30</Station>
-        <VehicleID>
-        </VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005839</IncidentNumber>
-    <Problem>Assist Other Agencies</Problem>
-    <Address>1500 E 15th St S</Address>
-    <ResponseDate>1/30/2014 2:14:04 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 5</Station>
-        <VehicleID>ENG4</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 5</Station>
-        <VehicleID>ENG5</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005837</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>2600 S HARVARD AVE</Address>
-    <ResponseDate>1/30/2014 2:07:40 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 21</Station>
-        <VehicleID>L7</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005835</IncidentNumber>
+    <IncidentNumber>TFD2014000009728</IncidentNumber>
     <Problem>Business Alarm</Problem>
-    <Address>8100 E 21st St S</Address>
-    <ResponseDate>1/30/2014 2:01:38 PM</ResponseDate>
+    <Address>6000 E 23rd St S</Address>
+    <ResponseDate>2/21/2014 9:07:29 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 2</Division>
@@ -867,240 +1838,10 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005830</IncidentNumber>
-    <Problem>Traumatic Injury</Problem>
-    <Address>6100 S SHERIDAN RD</Address>
-    <ResponseDate>1/30/2014 1:28:16 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 28</Station>
-        <VehicleID>ENG20</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005826</IncidentNumber>
-    <Problem>Business Alarm</Problem>
-    <Address>4600 E Admiral Pl</Address>
-    <ResponseDate>1/30/2014 1:08:01 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>ENG7</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005819</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>400 S HARVARD AVE</Address>
-    <ResponseDate>1/30/2014 12:27:04 PM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>ENG15</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>HM1</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>HM2</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 15</Station>
-        <VehicleID>L7</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005815</IncidentNumber>
-    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
-    <Address>6700 S Louisville Ave</Address>
-    <ResponseDate>1/30/2014 11:49:52 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 29</Station>
-        <VehicleID>ENG29</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005812</IncidentNumber>
+    <IncidentNumber>TFD2014000009719</IncidentNumber>
     <Problem>Motor Vehicle Accident</Problem>
-    <Address>1500 N NORFOLK AVE</Address>
-    <ResponseDate>1/30/2014 11:37:07 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 10</Station>
-        <VehicleID>
-        </VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005810</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>1500 N Norfolk Ave</Address>
-    <ResponseDate>1/30/2014 11:33:12 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 10</Station>
-        <VehicleID>ENG24</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 10</Station>
-        <VehicleID>ENG3</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 4</Division>
-        <Station>Station 10</Station>
-        <VehicleID>L24</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005808</IncidentNumber>
-    <Problem>Residential Alarm</Problem>
-    <Address>100 E 26th Pl S</Address>
-    <ResponseDate>1/30/2014 11:12:44 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 5</Station>
-        <VehicleID>ENG5</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005807</IncidentNumber>
-    <Problem>Carbon Monoxide - No sympt</Problem>
-    <Address>3900 E 60th Pl S</Address>
-    <ResponseDate>1/30/2014 11:07:55 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 23</Station>
-        <VehicleID>SQ23</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005806</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>8900 S HARVARD AVE</Address>
-    <ResponseDate>1/30/2014 11:03:12 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 29</Station>
-        <VehicleID>
-        </VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005804</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>7000 S Harvard Ave</Address>
-    <ResponseDate>1/30/2014 10:56:55 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 29</Station>
-        <VehicleID>L23</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005801</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>8900 S Harvard Ave</Address>
-    <ResponseDate>1/30/2014 10:41:09 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 29</Station>
-        <VehicleID>ENG29</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005798</IncidentNumber>
-    <Problem>Dumpster Fire</Problem>
-    <Address>6100 S 33RD W AVE</Address>
-    <ResponseDate>1/30/2014 10:33:51 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 6</Station>
-        <VehicleID>ENG29</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005795</IncidentNumber>
-    <Problem>Inv- Electrical</Problem>
-    <Address>1700 S Denver Ave</Address>
-    <ResponseDate>1/30/2014 10:16:45 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 5</Station>
-        <VehicleID>ENG5</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005791</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>200 Wb  169 Nb</Address>
-    <ResponseDate>1/30/2014 9:20:43 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>
-        </Division>
-        <Station>
-        </Station>
-        <VehicleID>
-        </VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005789</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>100 NB S HWY 169 EXPY</Address>
-    <ResponseDate>1/30/2014 9:17:52 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>ENG31</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>SQ22</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005788</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>9800 E 61st St S</Address>
-    <ResponseDate>1/30/2014 9:17:16 AM</ResponseDate>
+    <Address>10600 E 51ST ST S</Address>
+    <ResponseDate>2/21/2014 8:13:18 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 5</Division>
@@ -1110,346 +1851,67 @@
     </Vehicles>
   </Incident>
   <Incident>
-    <IncidentNumber>TFD2014000005787</IncidentNumber>
+    <IncidentNumber>TFD2014000009718</IncidentNumber>
+    <Problem>Car Fire</Problem>
+    <Address>6600 S Mingo Rd</Address>
+    <ResponseDate>2/21/2014 8:09:14 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 5</Division>
+        <Station>Station 20</Station>
+        <VehicleID>ENG20</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009711</IncidentNumber>
     <Problem>Business Alarm</Problem>
-    <Address>900 S Elgin Ave</Address>
-    <ResponseDate>1/30/2014 9:06:11 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 4</Station>
-        <VehicleID>ENG7</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005785</IncidentNumber>
-    <Problem>Business Alarm</Problem>
-    <Address>300 W 4th St S</Address>
-    <ResponseDate>1/30/2014 9:05:26 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 4</Station>
-        <VehicleID>ENG2</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005784</IncidentNumber>
-    <Problem>Business Alarm - Hosp/NH</Problem>
-    <Address>3300 E 28th St S</Address>
-    <ResponseDate>1/30/2014 9:05:07 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 21</Station>
-        <VehicleID>C642</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 21</Station>
-        <VehicleID>ENG14</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 21</Station>
-        <VehicleID>ENG21</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 21</Station>
-        <VehicleID>ENG4</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 21</Station>
-        <VehicleID>ENG7</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 21</Station>
-        <VehicleID>L4</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 21</Station>
-        <VehicleID>L7</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 21</Station>
-        <VehicleID>SQ23</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005780</IncidentNumber>
-    <Problem>MVA- Multi Veh/Patients</Problem>
-    <Address>5000 EB E I44 EXPY</Address>
-    <ResponseDate>1/30/2014 8:21:29 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 23</Station>
-        <VehicleID>ENG14</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 23</Station>
-        <VehicleID>SQ23</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005779</IncidentNumber>
-    <Problem>Grass/Brush Fire</Problem>
-    <Address>5300 Sb S Hwy 75 Expy</Address>
-    <ResponseDate>1/30/2014 8:14:12 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 26</Station>
-        <VehicleID>
-        </VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005777</IncidentNumber>
-    <Problem>Grass/Brush Fire</Problem>
-    <Address>5400 NB S HWY 75 EXPY</Address>
-    <ResponseDate>1/30/2014 8:11:51 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 6</Station>
-        <VehicleID>ENG6</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 6</Station>
-        <VehicleID>GR10</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 6</Station>
-        <VehicleID>L26</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 6</Station>
-        <VehicleID>SQ26</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005778</IncidentNumber>
-    <Problem>Grass/Brush Fire</Problem>
-    <Address>5500 Sb S Hwy 75 Expy</Address>
-    <ResponseDate>1/30/2014 8:11:34 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 3</Division>
-        <Station>Station 26</Station>
-        <VehicleID>
-        </VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005775</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>9800 EB E I244 EXPY</Address>
-    <ResponseDate>1/30/2014 8:03:16 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>ENG15</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>ENG17</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>L22</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>SQ22</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005774</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>6400 EB E I44 EXPY</Address>
-    <ResponseDate>1/30/2014 8:01:31 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 23</Station>
-        <VehicleID>ENG25</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 5</Division>
-        <Station>Station 23</Station>
-        <VehicleID>SQ23</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005771</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>2100 S LOUISVILLE AVE</Address>
-    <ResponseDate>1/30/2014 7:48:18 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 7</Station>
-        <VehicleID>
-        </VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005770</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>2100 S LOUISVILLE AVE</Address>
-    <ResponseDate>1/30/2014 7:47:56 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 7</Station>
-        <VehicleID>ENG7</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005768</IncidentNumber>
-    <Problem>Fluid Spill</Problem>
-    <Address>10400 Wb E I244 Expy</Address>
-    <ResponseDate>1/30/2014 7:13:39 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 30</Station>
-        <VehicleID>L30</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005767</IncidentNumber>
-    <Problem>Residential Alarm</Problem>
-    <Address>700 S 145th E Ave</Address>
-    <ResponseDate>1/30/2014 7:05:15 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 30</Station>
-        <VehicleID>ENG30</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005765</IncidentNumber>
-    <Problem>Motor Vehicle Accident</Problem>
-    <Address>NB N HWY 11 EXPY ONRP WB I244</Address>
-    <ResponseDate>1/30/2014 6:55:30 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>ENG31</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>L31</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 2</Division>
-        <Station>Station 22</Station>
-        <VehicleID>SQ22</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005762</IncidentNumber>
-    <Problem>Inv-Smoke/Detector/Odor/Fire</Problem>
-    <Address>2200 E 12th St S</Address>
-    <ResponseDate>1/30/2014 6:26:39 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 7</Station>
-        <VehicleID>ENG7</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005758</IncidentNumber>
-    <Problem>Building Fire</Problem>
-    <Address>300 W 1st St S</Address>
-    <ResponseDate>1/30/2014 5:25:22 AM</ResponseDate>
-    <Vehicles>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 2</Station>
-        <VehicleID>C641</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 2</Station>
-        <VehicleID>ENG2</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 2</Station>
-        <VehicleID>ENG3</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 2</Station>
-        <VehicleID>ENG4</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 2</Station>
-        <VehicleID>ENG5</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 2</Station>
-        <VehicleID>L4</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 2</Station>
-        <VehicleID>L7</VehicleID>
-      </Vehicle>
-      <Vehicle>
-        <Division>District 1</Division>
-        <Station>Station 2</Station>
-        <VehicleID>SQ2</VehicleID>
-      </Vehicle>
-    </Vehicles>
-  </Incident>
-  <Incident>
-    <IncidentNumber>TFD2014000005755</IncidentNumber>
-    <Problem>Traumatic Injury</Problem>
-    <Address>2400 N LEWIS AVE</Address>
-    <ResponseDate>1/30/2014 3:43:57 AM</ResponseDate>
+    <Address>1900 N Sheridan Rd</Address>
+    <ResponseDate>2/21/2014 6:22:55 AM</ResponseDate>
     <Vehicles>
       <Vehicle>
         <Division>District 4</Division>
-        <Station>Station 10</Station>
-        <VehicleID>ENG16</VehicleID>
+        <Station>Station 17</Station>
+        <VehicleID>ENG17</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009710</IncidentNumber>
+    <Problem>Grass/Brush Fire</Problem>
+    <Address>4100 E ADMIRAL PL</Address>
+    <ResponseDate>2/21/2014 6:16:08 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 15</Station>
+        <VehicleID>ENG15</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009691</IncidentNumber>
+    <Problem>Residential Alarm</Problem>
+    <Address>800 N Irvington Ave</Address>
+    <ResponseDate>2/21/2014 12:18:24 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 17</Station>
+        <VehicleID>ENG17</VehicleID>
+      </Vehicle>
+    </Vehicles>
+  </Incident>
+  <Incident>
+    <IncidentNumber>TFD2014000009689</IncidentNumber>
+    <Problem>Water Rescue</Problem>
+    <Address>200 E 36TH ST N</Address>
+    <ResponseDate>2/21/2014 12:07:10 AM</ResponseDate>
+    <Vehicles>
+      <Vehicle>
+        <Division>District 4</Division>
+        <Station>Station 24</Station>
+        <VehicleID>ENG24</VehicleID>
       </Vehicle>
     </Vehicles>
   </Incident>

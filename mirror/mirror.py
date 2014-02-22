@@ -22,7 +22,7 @@ def file_iterator(f, block_size):
             yield buffer
 
 
-def get_file(url, filename, use_cache=True):
+def get_file(url, filename, verbose=False, use_cache=True):
     # Ensure directory exists
     path = os.path.join(*filename.split('/'))
     folder = os.path.dirname(path)
@@ -37,7 +37,8 @@ def get_file(url, filename, use_cache=True):
 
     if not (use_cache and os.path.exists(path)):
         u = urlopen(url)
-        print "  Downloading from {} to {}".format(url, path)
+        if verbose:
+            print "  Downloading from {} to {}".format(url, path)
         with open(path, 'wb') as f:
             meta = u.info()
             file_size = int(meta.getheaders("Content-Length")[0])
@@ -48,10 +49,11 @@ def get_file(url, filename, use_cache=True):
     return open(path, 'rb').read()
 
 
-def gather_datasets():
+def gather_datasets(verbose=False, use_cache=True):
     datasets_json = get_file(
         'https://www.cityoftulsa.org/cot/opendata/opendatasets.jsn',
-        'City of Tulsa Open Datasets/Updated Each Minute.json')
+        'City of Tulsa Open Datasets/Updated Each Minute.json',
+        verbose, use_cache)
     datasets = json.loads(datasets_json)
 
     esri_query = (
@@ -66,7 +68,8 @@ def gather_datasets():
 
     for dataset in datasets['OpenData']['DataSets']['DataSet']:
         name = dataset['Name']
-        print name, "datasets"
+        if verbose:
+            print name, "datasets"
         if isinstance(dataset['Instances']['Instance'], list):
             instances = dataset['Instances']['Instance']
         else:
@@ -77,17 +80,18 @@ def gather_datasets():
             url = instance['Link']
             dtype = instance['Type']
             frequency = instance['Frequency']
-            print "  Dataset {}: {} (type {} at {})".format(count, frequency, dtype, url)
+            if verbose:
+                print "  Dataset {}: {} (type {} at {})".format(count, frequency, dtype, url)
 
             if dtype in ('PDF', 'JSON', 'RSS', 'XML', 'HTML'):
                 filename = "{}/{}.{}".format(name, frequency, dtype.lower())
-                out = get_file(url, filename)
+                out = get_file(url, filename, verbose, use_cache)
             elif dtype == 'REST':
                 assert 'ArcGIS' in url
                 # Get JSON
                 filename = "{}/{}.{}".format(name, frequency, 'arcgis.json')
                 query_url = url + esri_query.format('pjson')
-                out = get_file(query_url, filename)
+                out = get_file(query_url, filename, verbose, use_cache)
             elif dtype == 'KML':
                 assert 'ArcGIS' in url
                 assert url.endswith('MapServer/KmlServer')
@@ -96,12 +100,20 @@ def gather_datasets():
                 filename = "{}/{}.{}".format(name, frequency, 'kmz')
                 better_url = url.replace('KmlServer', '0')
                 query_url = better_url + esri_query.format('kmz')
-                out = get_file(query_url, filename)
+                out = get_file(query_url, filename, verbose, use_cache)
             else:
                 logger.warn('Not handling type {}'.format(dtype))
 
 
-
 if __name__ == '__main__':
+    import argparse
+
     logging.basicConfig()
-    gather_datasets()
+    parser = argparse.ArgumentParser(description='Mirror Open Tulsa Data')
+    parser.add_argument(
+        '-q', '--quiet', action='store_true', help="Don't print progress messages")
+    parser.add_argument(
+        '-f', '--fresh', action='store_true', help='Download fresh data')
+    args = parser.parse_args()
+
+    gather_datasets(verbose = not args.quiet, use_cache=not args.fresh)
