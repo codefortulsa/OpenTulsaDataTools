@@ -97,7 +97,9 @@ def gather_datasets(verbose=False, use_cache=True):
 
                 # Convert to GeoJSON
                 geojson_name = "{}/{}.{}".format(name, frequency, 'geo.json')
-                call(["ogr2ogr", "-f", "GeoJSON", geojson_name, filename, "OgrGeoJSON"])
+                if os.path.exists(geojson_name):
+                    os.remove(geojson_name)
+                call(["ogr2ogr", "-f", "GeoJSON", "-t_srs", "EPSG:4326", geojson_name, filename, "OgrGeoJSON"])
 
             elif dtype == 'KML':
                 assert 'ArcGIS' in url
