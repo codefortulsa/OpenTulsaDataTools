@@ -7,6 +7,7 @@ import json
 import logging
 import os
 import os.path
+from subprocess import call
 
 import tqdm
 
@@ -46,15 +47,16 @@ def get_file(url, filename, verbose=False, use_cache=True):
             expected = file_size / block_size
             for block in tqdm.tqdm(file_iterator(u, 8192), total=expected):
                 f.write(block)
-    return open(path, 'rb').read()
+    return path
 
 
 def gather_datasets(verbose=False, use_cache=True):
-    datasets_json = get_file(
+    datasets_path = get_file(
         'https://www.cityoftulsa.org/cot/opendata/opendatasets.jsn',
         'City of Tulsa Open Datasets/Updated Each Minute.json',
         verbose, use_cache)
-    datasets = json.loads(datasets_json)
+    datasets_json = file(datasets_path, 'rb')
+    datasets = json.load(datasets_json)
 
     esri_query = (
         '/query?'
@@ -85,13 +87,18 @@ def gather_datasets(verbose=False, use_cache=True):
 
             if dtype in ('PDF', 'JSON', 'RSS', 'XML', 'HTML'):
                 filename = "{}/{}.{}".format(name, frequency, dtype.lower())
-                out = get_file(url, filename, verbose, use_cache)
+                get_file(url, filename, verbose, use_cache)
             elif dtype == 'REST':
                 assert 'ArcGIS' in url
                 # Get JSON
                 filename = "{}/{}.{}".format(name, frequency, 'arcgis.json')
                 query_url = url + esri_query.format('pjson')
-                out = get_file(query_url, filename, verbose, use_cache)
+                path = get_file(query_url, filename, verbose, use_cache)
+
+                # Convert to GeoJSON
+                geojson_name = "{}/{}.{}".format(name, frequency, 'geo.json')
+                call(["ogr2ogr", "-f", "GeoJSON", geojson_name, filename, "OgrGeoJSON"])
+
             elif dtype == 'KML':
                 assert 'ArcGIS' in url
                 assert url.endswith('MapServer/KmlServer')
@@ -100,7 +107,7 @@ def gather_datasets(verbose=False, use_cache=True):
                 filename = "{}/{}.{}".format(name, frequency, 'kmz')
                 better_url = url.replace('KmlServer', '0')
                 query_url = better_url + esri_query.format('kmz')
-                out = get_file(query_url, filename, verbose, use_cache)
+                get_file(query_url, filename, verbose, use_cache)
             else:
                 logger.warn('Not handling type {}'.format(dtype))
 
