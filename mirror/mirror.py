@@ -54,7 +54,7 @@ def gather_datasets(verbose=False, use_cache=True):
     datasets_path = get_file(
         'https://www.cityoftulsa.org/cot/opendata/opendatasets.jsn',
         'City of Tulsa Open Datasets/Updated Each Minute.json',
-        verbose, use_cache)
+        verbose, use_cache=False)
     datasets_json = file(datasets_path, 'rb')
     datasets = json.load(datasets_json)
 
@@ -65,6 +65,7 @@ def gather_datasets(verbose=False, use_cache=True):
         '&where=1%3D1'
         '&returnGeometry=true'
         '&outFields=*'
+        '&outSR=4326'
         '&f={}')
 
 
